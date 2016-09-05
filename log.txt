@@ -1,92 +1,314 @@
-Movie-Query: The Matrix
-The Matrix
-1999
-8.7
-USA
-English
-Thomas A. Anderson is a man living two lives. By day he is an average computer programmer and by night a hacker known as Neo. Neo has always questioned his reality, but the truth is far beyond his imagination. Neo finds himself targeted by the police when he is contacted by Morpheus, a legendary computer hacker branded a terrorist by the government. Morpheus awakens Neo to the real world, a ravaged wasteland where most of humanity have been captured by a race of machines that live off of the humans' body heat and electrochemical energy and who imprison their minds within an artificial reality known as the Matrix. As a rebel against the machines, Neo must return to the Matrix and confront the agents: super-powerful computer programs devoted to snuffing out Neo and the entire human rebellion.
-Keanu Reeves, Laurence Fishburne, Carrie-Anne Moss, Hugo Weaving
-7.6
-http://www.rottentomatoes.com/m/matrix/
------------------------------------------------------------------------------------------------
+predefined task
+next command requested in 'random.txt'
 
-Spotify-Query: Rebel rebel
-G-Eazy
-Rebel
-https://p.scdn.co/mp3-preview/baf2d72534e99f500ca176a058884ee717285439
-Rebel - Single
------------------------------------------------------------------------------------------------
-
-Spotify-Query: Rebel, Rebel
-G-Eazy
-Rebel
-https://p.scdn.co/mp3-preview/baf2d72534e99f500ca176a058884ee717285439
-Rebel - Single
------------------------------------------------------------------------------------------------
-
-Movie-Query: Captain America
-Captain America
-1990
-3.3
-USA, Yugoslavia
-English
-During World War II, a brave, patriotic American Soldier undergoes experiments to become a new supersoldier, "Captain America." Racing to Germany to sabotage the rockets of Nazi baddie "Red Skull", Captain America winds up frozen until the 1990s. He reawakens to find that the Red Skull has changed identities and is now planning to kidnap the President of the United States.
-Matt Salinger, Ronny Cox, Ned Beatty, Darren McGavin
-3.0
-http://www.rottentomatoes.com/m/captain-america1990/
------------------------------------------------------------------------------------------------
-
-Movie-Query: Captain America:The First Avenger
-Captain America: The First Avenger
-2011
-6.9
-USA
-English, Norwegian, French
-It is 1942, America has entered World War II, and sickly but determined Steve Rogers is frustrated at being rejected yet again for military service. Everything changes when Dr. Erskine recruits him for the secret Project Rebirth. Proving his extraordinary courage, wits and conscience, Rogers undergoes the experiment and his weak body is suddenly enhanced into the maximum human potential. When Dr. Erskine is then immediately assassinated by an agent of Nazi Germany's secret HYDRA research department (headed by Johann Schmidt, a.k.a. the Red Skull), Rogers is left as a unique man who is initially misused as a propaganda mascot; however, when his comrades need him, Rogers goes on a successful adventure that truly makes him Captain America, and his war against Schmidt begins.
-Chris Evans, Hayley Atwell, Sebastian Stan, Tommy Lee Jones
-6.9
-http://www.rottentomatoes.com/m/captain-america/
------------------------------------------------------------------------------------------------
+Spotify-Query: "I Want it That Way"
+Artist: Backstreet Boys
+Song Name: I Want It That Way
+Preview URL: https://p.scdn.co/mp3-preview/e72a05dc3f69c891e3390c3ceaa77fad02f6b5f6
+Album Name: The Hits--Chapter One
+-----------------------------------------------------------------------------------------------spotify
 
 Twitter-Query: 
-tweeted: Mon Jan 09 20:53:04 +0000 2012
-tweet: Pls RT: @senatorreid @chuckschumer @mcconnellpress We need u to stand w the Internet and kill #PIPA http://t.co/4umO9dSq via @demandprogress
-tweeted: Wed Jan 04 02:23:42 +0000 2012
-tweet: 14 Senators introed bill to undo indefinite detention of Americans thru #NDAA. Tell yours to join: http://t.co/ueGlhttb via @demandprogress
-tweeted: Sat Sep 24 23:31:16 +0000 2011
-tweet: I just donated to @Amnesty! Won't you join me in supporting #HumanRights for all? http://t.co/BT2WSXwk
-tweeted: Fri Oct 07 21:45:01 +0000 2011
-tweet: RT @Adbusters An Anonymous Investment Manager on the 1 Percent bit.ly/njyyNh #ows Interesting info
-tweeted: Fri Sep 09 05:43:25 +0000 2011
-tweet: Next generation of social media? http://t.co/ezT6Yc9 via @3favors
-tweeted: Sun Aug 07 17:50:48 +0000 2011
-tweet: RT @WSJ: In defense of boredom: Scott Adams argues that constant stimulation is hurting our creativity http://on.wsj.com/pWWuTg
-tweeted: Sat Jul 30 05:32:32 +0000 2011
-tweet: Rest in Peace John E. Anderson.
+Date tweeted: Wed Jan 04 02:23:42 +0000 2012
+Tweet: 14 Senators introed bill to undo indefinite detention of Americans thru #NDAA. Tell yours to join: http://t.co/ueGlhttb via @demandprogress
+
+Date tweeted: Mon Jan 09 20:53:04 +0000 2012
+Tweet: Pls RT: @senatorreid @chuckschumer @mcconnellpress We need u to stand w the Internet and kill #PIPA http://t.co/4umO9dSq via @demandprogress
+
+Date tweeted: Fri Sep 09 05:43:25 +0000 2011
+Tweet: Next generation of social media? http://t.co/ezT6Yc9 via @3favors
+
+Date tweeted: Fri Oct 07 21:45:01 +0000 2011
+Tweet: RT @Adbusters An Anonymous Investment Manager on the 1 Percent bit.ly/njyyNh #ows Interesting info
+
+Date tweeted: Wed Aug 24 15:13:19 +0000 2011
+Tweet: @rspeaker Congrats!
+
+Date tweeted: Sat Sep 24 23:31:16 +0000 2011
+Tweet: I just donated to @Amnesty! Won't you join me in supporting #HumanRights for all? http://t.co/BT2WSXwk
+
+Date tweeted: Sun Aug 07 17:50:48 +0000 2011
+Tweet: RT @WSJ: In defense of boredom: Scott Adams argues that constant stimulation is hurting our creativity http://on.wsj.com/pWWuTg
+
+Date tweeted: Sun Aug 07 02:35:38 +0000 2011
+Tweet: RT @nprpolitics: A National Debt Of $14 Trillion? Try $211 Trillion http://n.pr/qEpB6a
+
+Date tweeted: Sun Aug 07 02:36:35 +0000 2011
+Tweet: $214 Trillion? I've heard $14 Trillion, $65 Trillion, $110 Trillion. Where does it end?
+
+Date tweeted: Thu Jul 14 05:43:26 +0000 2011
+Tweet: AllThingsD: Do Us a Favor and Read About This Social Start-up Called Favo.rs http://t.co/kDPqcdk via @3favors
+
+Date tweeted: Sat Jul 30 05:32:32 +0000 2011
+Tweet: Rest in Peace John E. Anderson.
 http://t.co/LnMR33y
-tweeted: Wed Aug 24 15:13:19 +0000 2011
-tweet: @rspeaker Congrats!
-tweeted: Thu Jul 14 05:43:26 +0000 2011
-tweet: AllThingsD: Do Us a Favor and Read About This Social Start-up Called Favo.rs http://t.co/kDPqcdk via @3favors
-tweeted: Mon Jul 04 17:49:27 +0000 2011
-tweet: @MWinty, sign up for Klout and see how we compare! http://t.co/5338Qzm
-tweeted: Fri Jul 01 06:18:21 +0000 2011
-tweet: Help spread the word about this amazing short film crew out of Phoenix, AZ that needs support! http://t.co/P5mcdEm via @3favors
-tweeted: Thu Jun 30 04:16:59 +0000 2011
-tweet: Hiring technical Platform PM at Zynga. CS/equiv degree preferred. Email tim@zynga.com. http://t.co/iYB6Sru via @3favors
-tweeted: Sun Jun 26 05:23:26 +0000 2011
-tweet: Join Favo.rs, where professionals help each other with their requests! http://t.co/VYvEjQD via @3favors
-tweeted: Sat Jun 18 20:33:07 +0000 2011
-tweet: @JerryBrownGov Good on you Gov Brown! Keep up the great work!
-tweeted: Sat Jun 18 20:30:21 +0000 2011
-tweet: RT @JerryBrownGov: Today I vetoed the state budget (video): http://bit.ly/mKx9mL
-tweeted: Sat Jun 11 17:17:22 +0000 2011
-tweet: I'm joining Favo.rs, where professionals broadcast & fulfill each other's help requests. Get invited: http://t.co/XouaJBI via @3favors
-tweeted: Sun Aug 07 02:36:35 +0000 2011
-tweet: $214 Trillion? I've heard $14 Trillion, $65 Trillion, $110 Trillion. Where does it end?
-tweeted: Sun Aug 07 02:35:38 +0000 2011
-tweet: RT @nprpolitics: A National Debt Of $14 Trillion? Try $211 Trillion http://n.pr/qEpB6a
-tweeted: Sun Aug 16 15:47:19 +0000 2009
-tweet: Had a great time at the Tobin James BBQ last night - good music, nice wine & Paso is beautiful this time of year (especially around sunset)
------------------------------------------------------------------------------------------------
+
+Date tweeted: Fri Jul 01 06:18:21 +0000 2011
+Tweet: Help spread the word about this amazing short film crew out of Phoenix, AZ that needs support! http://t.co/P5mcdEm via @3favors
+
+Date tweeted: Mon Jul 04 17:49:27 +0000 2011
+Tweet: @MWinty, sign up for Klout and see how we compare! http://t.co/5338Qzm
+
+Date tweeted: Sun Jun 26 05:23:26 +0000 2011
+Tweet: Join Favo.rs, where professionals help each other with their requests! http://t.co/VYvEjQD via @3favors
+
+Date tweeted: Thu Jun 30 04:16:59 +0000 2011
+Tweet: Hiring technical Platform PM at Zynga. CS/equiv degree preferred. Email tim@zynga.com. http://t.co/iYB6Sru via @3favors
+
+Date tweeted: Sat Jun 18 20:30:21 +0000 2011
+Tweet: RT @JerryBrownGov: Today I vetoed the state budget (video): http://bit.ly/mKx9mL
+
+Date tweeted: Sat Jun 11 17:17:22 +0000 2011
+Tweet: I'm joining Favo.rs, where professionals broadcast & fulfill each other's help requests. Get invited: http://t.co/XouaJBI via @3favors
+
+Date tweeted: Sat Jun 18 20:33:07 +0000 2011
+Tweet: @JerryBrownGov Good on you Gov Brown! Keep up the great work!
+
+-----------------------------------------------------------------------------------------------twitter
+
+Date tweeted: Sun Aug 16 15:47:19 +0000 2009
+Tweet: Had a great time at the Tobin James BBQ last night - good music, nice wine & Paso is beautiful this time of year (especially around sunset)
+
+Movie-Query: Avengers:Age of Ultron
+Title: Avengers: Age of Ultron
+Release Year: 2015
+IMDB Rating: 7.5
+Country: USA
+Language: English
+Plot Synopsis: Tony Stark creates the Ultron Program to protect the world, but when the peacekeeping program becomes hostile, The Avengers go into action to try and defeat a virtually impossible enemy together. Earth's mightiest heroes must come together once again to protect the world from global extinction.
+Actors: Robert Downey Jr., Chris Hemsworth, Mark Ruffalo, Chris Evans
+Rotten Tomatoes Rating: 6.7
+Rotten Tomatoes URL: http://www.rottentomatoes.com/m/avengers_age_of_ultron/
+-----------------------------------------------------------------------------------------------IMDB
+
+Undefined-command: undefined-command
+query: Bonus
+-----------------------------------------------------------------------------------------------Undefined
+
+Spotify-Query: Kashmir
+Artist: Led Zeppelin
+Song Name: Kashmir
+Preview URL: https://p.scdn.co/mp3-preview/f3ca68c9ceaa3435d5bd55c0199ba0b09b916cce
+Album Name: Physical Graffiti (Deluxe Edition)
+-----------------------------------------------------------------------------------------------spotify
+
+Undefined-command: I-don't-like-you
+query: at all
+-----------------------------------------------------------------------------------------------Undefined
+
+Undefined-command: vomit
+query: up your lunch
+-----------------------------------------------------------------------------------------------Undefined
+
+Undefined-command: add
+query: 3+4
+-----------------------------------------------------------------------------------------------Undefined
+
+Spotify-Query: We got the beat
+Artist: The Go-Go's
+Song Name: We Got The Beat - Single Mix
+Preview URL: https://p.scdn.co/mp3-preview/4cf8fc270f34e717ae477fdd62b037a1b3b3207e
+Album Name: Return To The Valley Of The Go-Go's
+-----------------------------------------------------------------------------------------------spotify
+
+Spotify-Query: Dyer Maker
+Artist: Led Zeppelin
+Song Name: D'yer Mak'er
+Preview URL: https://p.scdn.co/mp3-preview/2ee12466c614fd30f7ff00f067a9b3ec0cd1182b
+Album Name: Houses Of The Holy
+-----------------------------------------------------------------------------------------------spotify
+
+Undefined-command: do-something-intelligent
+query: with your life
+-----------------------------------------------------------------------------------------------Undefined
+
+Undefined-command: soptify-this-song
+query: Kashmire
+-----------------------------------------------------------------------------------------------Undefined
+
+Twitter-Query: 
+Date tweeted: Mon Sep 05 00:28:15 +0000 2016
+Tweet: First tweet in four years! Guess I just became an active user.
+
+Date tweeted: Mon Jan 09 20:53:04 +0000 2012
+Tweet: Pls RT: @senatorreid @chuckschumer @mcconnellpress We need u to stand w the Internet and kill #PIPA http://t.co/4umO9dSq via @demandprogress
+
+Date tweeted: Fri Oct 07 21:45:01 +0000 2011
+Tweet: RT @Adbusters An Anonymous Investment Manager on the 1 Percent bit.ly/njyyNh #ows Interesting info
+
+Date tweeted: Sat Sep 24 23:31:16 +0000 2011
+Tweet: I just donated to @Amnesty! Won't you join me in supporting #HumanRights for all? http://t.co/BT2WSXwk
+
+Date tweeted: Wed Jan 04 02:23:42 +0000 2012
+Tweet: 14 Senators introed bill to undo indefinite detention of Americans thru #NDAA. Tell yours to join: http://t.co/ueGlhttb via @demandprogress
+
+Date tweeted: Fri Sep 09 05:43:25 +0000 2011
+Tweet: Next generation of social media? http://t.co/ezT6Yc9 via @3favors
+
+Date tweeted: Wed Aug 24 15:13:19 +0000 2011
+Tweet: @rspeaker Congrats!
+
+Date tweeted: Sun Aug 07 17:50:48 +0000 2011
+Tweet: RT @WSJ: In defense of boredom: Scott Adams argues that constant stimulation is hurting our creativity http://on.wsj.com/pWWuTg
+
+Date tweeted: Sun Aug 07 02:35:38 +0000 2011
+Tweet: RT @nprpolitics: A National Debt Of $14 Trillion? Try $211 Trillion http://n.pr/qEpB6a
+
+Date tweeted: Sun Aug 07 02:36:35 +0000 2011
+Tweet: $214 Trillion? I've heard $14 Trillion, $65 Trillion, $110 Trillion. Where does it end?
+
+Date tweeted: Sat Jul 30 05:32:32 +0000 2011
+Tweet: Rest in Peace John E. Anderson.
+http://t.co/LnMR33y
+
+Date tweeted: Mon Jul 04 17:49:27 +0000 2011
+Tweet: @MWinty, sign up for Klout and see how we compare! http://t.co/5338Qzm
+
+Date tweeted: Fri Jul 01 06:18:21 +0000 2011
+Tweet: Help spread the word about this amazing short film crew out of Phoenix, AZ that needs support! http://t.co/P5mcdEm via @3favors
+
+Date tweeted: Thu Jun 30 04:16:59 +0000 2011
+Tweet: Hiring technical Platform PM at Zynga. CS/equiv degree preferred. Email tim@zynga.com. http://t.co/iYB6Sru via @3favors
+
+Date tweeted: Sun Jun 26 05:23:26 +0000 2011
+Tweet: Join Favo.rs, where professionals help each other with their requests! http://t.co/VYvEjQD via @3favors
+
+Date tweeted: Thu Jul 14 05:43:26 +0000 2011
+Tweet: AllThingsD: Do Us a Favor and Read About This Social Start-up Called Favo.rs http://t.co/kDPqcdk via @3favors
+
+Date tweeted: Sat Jun 18 20:33:07 +0000 2011
+Tweet: @JerryBrownGov Good on you Gov Brown! Keep up the great work!
+
+Date tweeted: Sat Jun 18 20:30:21 +0000 2011
+Tweet: RT @JerryBrownGov: Today I vetoed the state budget (video): http://bit.ly/mKx9mL
+
+Date tweeted: Sat Jun 11 17:17:22 +0000 2011
+Tweet: I'm joining Favo.rs, where professionals broadcast & fulfill each other's help requests. Get invited: http://t.co/XouaJBI via @3favors
+
+-----------------------------------------------------------------------------------------------twitter
+
+Date tweeted: Mon Sep 05 00:28:15 +0000 2016
+Tweet: First tweet in four years! Guess I just became an active user.
+
+Twitter-Query: 
+Date tweeted: Mon Jan 09 20:53:04 +0000 2012
+Tweet: Pls RT: @senatorreid @chuckschumer @mcconnellpress We need u to stand w the Internet and kill #PIPA http://t.co/4umO9dSq via @demandprogress
+
+Date tweeted: Wed Jan 04 02:23:42 +0000 2012
+Tweet: 14 Senators introed bill to undo indefinite detention of Americans thru #NDAA. Tell yours to join: http://t.co/ueGlhttb via @demandprogress
+
+Date tweeted: Fri Oct 07 21:45:01 +0000 2011
+Tweet: RT @Adbusters An Anonymous Investment Manager on the 1 Percent bit.ly/njyyNh #ows Interesting info
+
+Date tweeted: Sat Sep 24 23:31:16 +0000 2011
+Tweet: I just donated to @Amnesty! Won't you join me in supporting #HumanRights for all? http://t.co/BT2WSXwk
+
+Date tweeted: Wed Aug 24 15:13:19 +0000 2011
+Tweet: @rspeaker Congrats!
+
+Date tweeted: Fri Sep 09 05:43:25 +0000 2011
+Tweet: Next generation of social media? http://t.co/ezT6Yc9 via @3favors
+
+Date tweeted: Sun Aug 07 17:50:48 +0000 2011
+Tweet: RT @WSJ: In defense of boredom: Scott Adams argues that constant stimulation is hurting our creativity http://on.wsj.com/pWWuTg
+
+Date tweeted: Sun Aug 07 02:36:35 +0000 2011
+Tweet: $214 Trillion? I've heard $14 Trillion, $65 Trillion, $110 Trillion. Where does it end?
+
+Date tweeted: Sun Aug 07 02:35:38 +0000 2011
+Tweet: RT @nprpolitics: A National Debt Of $14 Trillion? Try $211 Trillion http://n.pr/qEpB6a
+
+Date tweeted: Sat Jul 30 05:32:32 +0000 2011
+Tweet: Rest in Peace John E. Anderson.
+http://t.co/LnMR33y
+
+Date tweeted: Thu Jul 14 05:43:26 +0000 2011
+Tweet: AllThingsD: Do Us a Favor and Read About This Social Start-up Called Favo.rs http://t.co/kDPqcdk via @3favors
+
+Date tweeted: Mon Jul 04 17:49:27 +0000 2011
+Tweet: @MWinty, sign up for Klout and see how we compare! http://t.co/5338Qzm
+
+Date tweeted: Fri Jul 01 06:18:21 +0000 2011
+Tweet: Help spread the word about this amazing short film crew out of Phoenix, AZ that needs support! http://t.co/P5mcdEm via @3favors
+
+Date tweeted: Thu Jun 30 04:16:59 +0000 2011
+Tweet: Hiring technical Platform PM at Zynga. CS/equiv degree preferred. Email tim@zynga.com. http://t.co/iYB6Sru via @3favors
+
+Date tweeted: Sun Jun 26 05:23:26 +0000 2011
+Tweet: Join Favo.rs, where professionals help each other with their requests! http://t.co/VYvEjQD via @3favors
+
+Date tweeted: Sat Jun 18 20:33:07 +0000 2011
+Tweet: @JerryBrownGov Good on you Gov Brown! Keep up the great work!
+
+Date tweeted: Sat Jun 18 20:30:21 +0000 2011
+Tweet: RT @JerryBrownGov: Today I vetoed the state budget (video): http://bit.ly/mKx9mL
+
+-----------------------------------------------------------------------------------------------twitter
+
+Date tweeted: Sat Jun 11 17:17:22 +0000 2011
+Tweet: I'm joining Favo.rs, where professionals broadcast & fulfill each other's help requests. Get invited: http://t.co/XouaJBI via @3favors
+
+Twitter-Query: 
+Date tweeted: Mon Sep 05 00:28:15 +0000 2016
+Tweet: First tweet in four years! Guess I just became an active user.
+
+Date tweeted: Mon Jan 09 20:53:04 +0000 2012
+Tweet: Pls RT: @senatorreid @chuckschumer @mcconnellpress We need u to stand w the Internet and kill #PIPA http://t.co/4umO9dSq via @demandprogress
+
+Date tweeted: Wed Jan 04 02:23:42 +0000 2012
+Tweet: 14 Senators introed bill to undo indefinite detention of Americans thru #NDAA. Tell yours to join: http://t.co/ueGlhttb via @demandprogress
+
+Date tweeted: Wed Aug 24 15:13:19 +0000 2011
+Tweet: @rspeaker Congrats!
+
+Date tweeted: Sun Aug 07 17:50:48 +0000 2011
+Tweet: RT @WSJ: In defense of boredom: Scott Adams argues that constant stimulation is hurting our creativity http://on.wsj.com/pWWuTg
+
+Date tweeted: Fri Sep 09 05:43:25 +0000 2011
+Tweet: Next generation of social media? http://t.co/ezT6Yc9 via @3favors
+
+Date tweeted: Sat Sep 24 23:31:16 +0000 2011
+Tweet: I just donated to @Amnesty! Won't you join me in supporting #HumanRights for all? http://t.co/BT2WSXwk
+
+Date tweeted: Fri Oct 07 21:45:01 +0000 2011
+Tweet: RT @Adbusters An Anonymous Investment Manager on the 1 Percent bit.ly/njyyNh #ows Interesting info
+
+Date tweeted: Sun Aug 07 02:36:35 +0000 2011
+Tweet: $214 Trillion? I've heard $14 Trillion, $65 Trillion, $110 Trillion. Where does it end?
+
+Date tweeted: Sat Jul 30 05:32:32 +0000 2011
+Tweet: Rest in Peace John E. Anderson.
+http://t.co/LnMR33y
+
+Date tweeted: Sun Aug 07 02:35:38 +0000 2011
+Tweet: RT @nprpolitics: A National Debt Of $14 Trillion? Try $211 Trillion http://n.pr/qEpB6a
+
+Date tweeted: Thu Jul 14 05:43:26 +0000 2011
+Tweet: AllThingsD: Do Us a Favor and Read About This Social Start-up Called Favo.rs http://t.co/kDPqcdk via @3favors
+
+Date tweeted: Mon Jul 04 17:49:27 +0000 2011
+Tweet: @MWinty, sign up for Klout and see how we compare! http://t.co/5338Qzm
+
+Date tweeted: Fri Jul 01 06:18:21 +0000 2011
+Tweet: Help spread the word about this amazing short film crew out of Phoenix, AZ that needs support! http://t.co/P5mcdEm via @3favors
+
+Date tweeted: Thu Jun 30 04:16:59 +0000 2011
+Tweet: Hiring technical Platform PM at Zynga. CS/equiv degree preferred. Email tim@zynga.com. http://t.co/iYB6Sru via @3favors
+
+Date tweeted: Sun Jun 26 05:23:26 +0000 2011
+Tweet: Join Favo.rs, where professionals help each other with their requests! http://t.co/VYvEjQD via @3favors
+
+Date tweeted: Sat Jun 18 20:33:07 +0000 2011
+Tweet: @JerryBrownGov Good on you Gov Brown! Keep up the great work!
+
+Date tweeted: Sat Jun 18 20:30:21 +0000 2011
+Tweet: RT @JerryBrownGov: Today I vetoed the state budget (video): http://bit.ly/mKx9mL
+
+Date tweeted: Sat Jun 11 17:17:22 +0000 2011
+Tweet: I'm joining Favo.rs, where professionals broadcast & fulfill each other's help requests. Get invited: http://t.co/XouaJBI via @3favors
+
+-----------------------------------------------------------------------------------------------twitter
+
+Date tweeted: Sun Aug 16 15:47:19 +0000 2009
+Tweet: Had a great time at the Tobin James BBQ last night - good music, nice wine & Paso is beautiful this time of year (especially around sunset)
 
