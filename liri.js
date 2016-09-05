@@ -41,7 +41,16 @@ var commands= {
                 console.log(err);
               }
         });
-      }
+      } else {
+          console.log('Twitter Error: '+ error);
+          fs.appendFile('log.txt', 'unknown twitter error: '+error+'\n'+
+                                  '-----------------------------------------------------------------------------------------------twitter\n\n',
+              function(err){
+                if(err){
+                  console.log(err);
+                }
+          });
+        }
     });
   },
   'spotify-this-song':function(){
