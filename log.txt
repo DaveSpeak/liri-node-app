@@ -95,3 +95,490 @@ Tweet: Had a great time at the Tobin James BBQ last night - good music, nice win
 
 -----------------------------------------------------------------------------------------------twitter
 
+Twitter-Query: 
+Date tweeted: Mon Jan 09 20:53:04 +0000 2012
+Tweet: Pls RT: @senatorreid @chuckschumer @mcconnellpress We need u to stand w the Internet and kill #PIPA http://t.co/4umO9dSq via @demandprogress
+
+Date tweeted: Mon Sep 05 00:28:15 +0000 2016
+Tweet: First tweet in four years! Guess I just became an active user.
+
+Date tweeted: Wed Jan 04 02:23:42 +0000 2012
+Tweet: 14 Senators introed bill to undo indefinite detention of Americans thru #NDAA. Tell yours to join: http://t.co/ueGlhttb via @demandprogress
+
+Date tweeted: Sat Sep 24 23:31:16 +0000 2011
+Tweet: I just donated to @Amnesty! Won't you join me in supporting #HumanRights for all? http://t.co/BT2WSXwk
+
+Date tweeted: Fri Oct 07 21:45:01 +0000 2011
+Tweet: RT @Adbusters An Anonymous Investment Manager on the 1 Percent bit.ly/njyyNh #ows Interesting info
+
+Date tweeted: Fri Sep 09 05:43:25 +0000 2011
+Tweet: Next generation of social media? http://t.co/ezT6Yc9 via @3favors
+
+Date tweeted: Wed Aug 24 15:13:19 +0000 2011
+Tweet: @rspeaker Congrats!
+
+Date tweeted: Sun Aug 07 17:50:48 +0000 2011
+Tweet: RT @WSJ: In defense of boredom: Scott Adams argues that constant stimulation is hurting our creativity http://on.wsj.com/pWWuTg
+
+Date tweeted: Sun Aug 07 02:36:35 +0000 2011
+Tweet: $214 Trillion? I've heard $14 Trillion, $65 Trillion, $110 Trillion. Where does it end?
+
+Date tweeted: Sat Jul 30 05:32:32 +0000 2011
+Tweet: Rest in Peace John E. Anderson.
+http://t.co/LnMR33y
+
+Date tweeted: Thu Jul 14 05:43:26 +0000 2011
+Tweet: AllThingsD: Do Us a Favor and Read About This Social Start-up Called Favo.rs http://t.co/kDPqcdk via @3favors
+
+Date tweeted: Mon Jul 04 17:49:27 +0000 2011
+Tweet: @MWinty, sign up for Klout and see how we compare! http://t.co/5338Qzm
+
+Date tweeted: Fri Jul 01 06:18:21 +0000 2011
+Tweet: Help spread the word about this amazing short film crew out of Phoenix, AZ that needs support! http://t.co/P5mcdEm via @3favors
+
+Date tweeted: Thu Jun 30 04:16:59 +0000 2011
+Tweet: Hiring technical Platform PM at Zynga. CS/equiv degree preferred. Email tim@zynga.com. http://t.co/iYB6Sru via @3favors
+
+Date tweeted: Sun Jun 26 05:23:26 +0000 2011
+Tweet: Join Favo.rs, where professionals help each other with their requests! http://t.co/VYvEjQD via @3favors
+
+Date tweeted: Sat Jun 18 20:33:07 +0000 2011
+Tweet: @JerryBrownGov Good on you Gov Brown! Keep up the great work!
+
+Date tweeted: Sat Jun 18 20:30:21 +0000 2011
+Tweet: RT @JerryBrownGov: Today I vetoed the state budget (video): http://bit.ly/mKx9mL
+
+Date tweeted: Sat Jun 11 17:17:22 +0000 2011
+Tweet: I'm joining Favo.rs, where professionals broadcast & fulfill each other's help requests. Get invited: http://t.co/XouaJBI via @3favors
+
+Date tweeted: Sun Aug 07 02:35:38 +0000 2011
+Tweet: RT @nprpolitics: A National Debt Of $14 Trillion? Try $211 Trillion http://n.pr/qEpB6a
+
+Date tweeted: Sun Aug 16 15:47:19 +0000 2009
+Tweet: Had a great time at the Tobin James BBQ last night - good music, nice wine & Paso is beautiful this time of year (especially around sunset)
+
+-----------------------------------------------------------------------------------------------twitter
+
+predefined task
+next command requested in 'random.txt'
+
+Spotify-Query: "I Want it That Way"
+Artist: Backstreet Boys
+Song Name: I Want It That Way
+Preview URL: https://p.scdn.co/mp3-preview/e72a05dc3f69c891e3390c3ceaa77fad02f6b5f6
+Album Name: The Hits--Chapter One
+-----------------------------------------------------------------------------------------------spotify
+
+Spotify-Query: IWantitthatway
+Artist: Various Artists
+Song Name: IWantItThatWay
+Preview URL: https://p.scdn.co/mp3-preview/e1e6778dce636077a6fb1358397040e072b1acc4
+Album Name: Panpipes For Lovers Vol 2
+-----------------------------------------------------------------------------------------------spotify
+
+Spotify-Query: I Want it that way 
+Artist: Backstreet Boys
+Song Name: I Want It That Way
+Preview URL: https://p.scdn.co/mp3-preview/e72a05dc3f69c891e3390c3ceaa77fad02f6b5f6
+Album Name: The Hits--Chapter One
+-----------------------------------------------------------------------------------------------spotify
+
+Spotify-Query: I Want it that Way 
+Artist: Backstreet Boys
+Song Name: I Want It That Way
+Preview URL: https://p.scdn.co/mp3-preview/e72a05dc3f69c891e3390c3ceaa77fad02f6b5f6
+Album Name: The Hits--Chapter One
+-----------------------------------------------------------------------------------------------spotify
+
+Movie-Query: The Omega Man 
+Title: The Omega Man
+Release Year: 1971
+IMDB Rating: 6.6
+Country: USA
+Language: English
+Plot Synopsis: Army doctor Robert Neville struggles to create a cure for the plague that wiped out most of the human race.
+Actors: Charlton Heston, Anthony Zerbe, Rosalind Cash, Paul Koslo
+Rotten Tomatoes Rating: 5.6
+Rotten Tomatoes URL: http://www.rottentomatoes.com/m/omega_man/
+-----------------------------------------------------------------------------------------------IMDB
+
+Movie-Query: Soylent Green 
+Title: Soylent Green
+Release Year: 1973
+IMDB Rating: 7.1
+Country: USA
+Language: English, Spanish
+Plot Synopsis: In 2022, Earth is overpopulated and totally polluted; the natural resources have been exhausted and the nourishment of the population is provided by Soylent Industries, a company that makes a food consisting of plankton from the oceans. In New York City, when Soylent's member of the board William R. Simonson is murdered apparently by a burglar at the Chelsea Towers West where he lives, efficient Detective Thorn is assigned to investigate the case with his partner Solomon "Sol" Roth. Thorn comes to the fancy apartment and meets Simonson's bodyguard Tab Fielding and the "furniture" (woman that is rented together with the flat) Shirl and the detective concludes that the executive was not victim of burglary but executed. Further, he finds that the Governor Santini and other powerful men want to disrupt and end Thorn's investigation. But Thorn continues his work and discovers a bizarre and disturbing secret of the ingredient used to manufacture Soylent Green.
+Actors: Charlton Heston, Leigh Taylor-Young, Chuck Connors, Joseph Cotten
+Rotten Tomatoes Rating: 6.0
+Rotten Tomatoes URL: http://www.rottentomatoes.com/m/soylent_green/
+-----------------------------------------------------------------------------------------------IMDB
+
+Twitter-Query: 
+Date tweeted: Mon Sep 05 00:28:15 +0000 2016
+Tweet: First tweet in four years! Guess I just became an active user.
+
+Date tweeted: Mon Jan 09 20:53:04 +0000 2012
+Tweet: Pls RT: @senatorreid @chuckschumer @mcconnellpress We need u to stand w the Internet and kill #PIPA http://t.co/4umO9dSq via @demandprogress
+
+Date tweeted: Wed Jan 04 02:23:42 +0000 2012
+Tweet: 14 Senators introed bill to undo indefinite detention of Americans thru #NDAA. Tell yours to join: http://t.co/ueGlhttb via @demandprogress
+
+Date tweeted: Fri Oct 07 21:45:01 +0000 2011
+Tweet: RT @Adbusters An Anonymous Investment Manager on the 1 Percent bit.ly/njyyNh #ows Interesting info
+
+Date tweeted: Fri Sep 09 05:43:25 +0000 2011
+Tweet: Next generation of social media? http://t.co/ezT6Yc9 via @3favors
+
+Date tweeted: Sat Sep 24 23:31:16 +0000 2011
+Tweet: I just donated to @Amnesty! Won't you join me in supporting #HumanRights for all? http://t.co/BT2WSXwk
+
+Date tweeted: Wed Aug 24 15:13:19 +0000 2011
+Tweet: @rspeaker Congrats!
+
+Date tweeted: Sun Aug 07 17:50:48 +0000 2011
+Tweet: RT @WSJ: In defense of boredom: Scott Adams argues that constant stimulation is hurting our creativity http://on.wsj.com/pWWuTg
+
+Date tweeted: Sun Aug 07 02:36:35 +0000 2011
+Tweet: $214 Trillion? I've heard $14 Trillion, $65 Trillion, $110 Trillion. Where does it end?
+
+Date tweeted: Sat Jul 30 05:32:32 +0000 2011
+Tweet: Rest in Peace John E. Anderson.
+http://t.co/LnMR33y
+
+Date tweeted: Sun Aug 07 02:35:38 +0000 2011
+Tweet: RT @nprpolitics: A National Debt Of $14 Trillion? Try $211 Trillion http://n.pr/qEpB6a
+
+Date tweeted: Thu Jul 14 05:43:26 +0000 2011
+Tweet: AllThingsD: Do Us a Favor and Read About This Social Start-up Called Favo.rs http://t.co/kDPqcdk via @3favors
+
+Date tweeted: Mon Jul 04 17:49:27 +0000 2011
+Tweet: @MWinty, sign up for Klout and see how we compare! http://t.co/5338Qzm
+
+Date tweeted: Thu Jun 30 04:16:59 +0000 2011
+Tweet: Hiring technical Platform PM at Zynga. CS/equiv degree preferred. Email tim@zynga.com. http://t.co/iYB6Sru via @3favors
+
+Date tweeted: Sun Jun 26 05:23:26 +0000 2011
+Tweet: Join Favo.rs, where professionals help each other with their requests! http://t.co/VYvEjQD via @3favors
+
+Date tweeted: Sat Jun 18 20:33:07 +0000 2011
+Tweet: @JerryBrownGov Good on you Gov Brown! Keep up the great work!
+
+Date tweeted: Fri Jul 01 06:18:21 +0000 2011
+Tweet: Help spread the word about this amazing short film crew out of Phoenix, AZ that needs support! http://t.co/P5mcdEm via @3favors
+
+Date tweeted: Sat Jun 18 20:30:21 +0000 2011
+Tweet: RT @JerryBrownGov: Today I vetoed the state budget (video): http://bit.ly/mKx9mL
+
+Date tweeted: Sat Jun 11 17:17:22 +0000 2011
+Tweet: I'm joining Favo.rs, where professionals broadcast & fulfill each other's help requests. Get invited: http://t.co/XouaJBI via @3favors
+
+Date tweeted: Sun Aug 16 15:47:19 +0000 2009
+Tweet: Had a great time at the Tobin James BBQ last night - good music, nice wine & Paso is beautiful this time of year (especially around sunset)
+
+-----------------------------------------------------------------------------------------------twitter
+
+Undefined-command: do-something
+query: That is necessary 
+-----------------------------------------------------------------------------------------------Undefined
+
+predefined task
+next command requested in 'random.txt'
+
+Spotify-Query: "I Want it That Way"
+Artist: Backstreet Boys
+Song Name: I Want It That Way
+Preview URL: https://p.scdn.co/mp3-preview/e72a05dc3f69c891e3390c3ceaa77fad02f6b5f6
+Album Name: The Hits--Chapter One
+-----------------------------------------------------------------------------------------------spotify
+
+Undefined-command: do-something-that-it-does-not-say
+query: to do 
+-----------------------------------------------------------------------------------------------Undefined
+
+predefined task
+next command requested in 'random.txt'
+
+Spotify-Query: "I Want it That Way"
+Artist: Backstreet Boys
+Song Name: I Want It That Way
+Preview URL: https://p.scdn.co/mp3-preview/e72a05dc3f69c891e3390c3ceaa77fad02f6b5f6
+Album Name: The Hits--Chapter One
+-----------------------------------------------------------------------------------------------spotify
+
+Undefined-command: do-something-that-it-doesn't-say-to-do
+query: another time perhaps 
+-----------------------------------------------------------------------------------------------Undefined
+
+Undefined-command: do-something-that-it-doesn't-say-to-do
+query: another time perhaps 
+-----------------------------------------------------------------------------------------------Undefined
+
+predefined task
+next command requested in 'random.txt'
+
+Spotify-Query: "I Want it That Way"
+Artist: Backstreet Boys
+Song Name: I Want It That Way
+Preview URL: https://p.scdn.co/mp3-preview/e72a05dc3f69c891e3390c3ceaa77fad02f6b5f6
+Album Name: The Hits--Chapter One
+-----------------------------------------------------------------------------------------------spotify
+
+Twitter-Query: 
+Date tweeted: Mon Jan 09 20:53:04 +0000 2012
+Tweet: Pls RT: @senatorreid @chuckschumer @mcconnellpress We need u to stand w the Internet and kill #PIPA http://t.co/4umO9dSq via @demandprogress
+
+Date tweeted: Wed Jan 04 02:23:42 +0000 2012
+Tweet: 14 Senators introed bill to undo indefinite detention of Americans thru #NDAA. Tell yours to join: http://t.co/ueGlhttb via @demandprogress
+
+Date tweeted: Mon Sep 05 00:28:15 +0000 2016
+Tweet: First tweet in four years! Guess I just became an active user.
+
+Date tweeted: Fri Oct 07 21:45:01 +0000 2011
+Tweet: RT @Adbusters An Anonymous Investment Manager on the 1 Percent bit.ly/njyyNh #ows Interesting info
+
+Date tweeted: Sat Sep 24 23:31:16 +0000 2011
+Tweet: I just donated to @Amnesty! Won't you join me in supporting #HumanRights for all? http://t.co/BT2WSXwk
+
+Date tweeted: Sun Aug 07 17:50:48 +0000 2011
+Tweet: RT @WSJ: In defense of boredom: Scott Adams argues that constant stimulation is hurting our creativity http://on.wsj.com/pWWuTg
+
+Date tweeted: Wed Aug 24 15:13:19 +0000 2011
+Tweet: @rspeaker Congrats!
+
+Date tweeted: Sun Aug 07 02:36:35 +0000 2011
+Tweet: $214 Trillion? I've heard $14 Trillion, $65 Trillion, $110 Trillion. Where does it end?
+
+Date tweeted: Fri Sep 09 05:43:25 +0000 2011
+Tweet: Next generation of social media? http://t.co/ezT6Yc9 via @3favors
+
+Date tweeted: Sun Aug 07 02:35:38 +0000 2011
+Tweet: RT @nprpolitics: A National Debt Of $14 Trillion? Try $211 Trillion http://n.pr/qEpB6a
+
+Date tweeted: Sat Jul 30 05:32:32 +0000 2011
+Tweet: Rest in Peace John E. Anderson.
+http://t.co/LnMR33y
+
+Date tweeted: Thu Jul 14 05:43:26 +0000 2011
+Tweet: AllThingsD: Do Us a Favor and Read About This Social Start-up Called Favo.rs http://t.co/kDPqcdk via @3favors
+
+Date tweeted: Fri Jul 01 06:18:21 +0000 2011
+Tweet: Help spread the word about this amazing short film crew out of Phoenix, AZ that needs support! http://t.co/P5mcdEm via @3favors
+
+Date tweeted: Thu Jun 30 04:16:59 +0000 2011
+Tweet: Hiring technical Platform PM at Zynga. CS/equiv degree preferred. Email tim@zynga.com. http://t.co/iYB6Sru via @3favors
+
+Date tweeted: Sun Jun 26 05:23:26 +0000 2011
+Tweet: Join Favo.rs, where professionals help each other with their requests! http://t.co/VYvEjQD via @3favors
+
+Date tweeted: Sat Jun 18 20:33:07 +0000 2011
+Tweet: @JerryBrownGov Good on you Gov Brown! Keep up the great work!
+
+Date tweeted: Mon Jul 04 17:49:27 +0000 2011
+Tweet: @MWinty, sign up for Klout and see how we compare! http://t.co/5338Qzm
+
+Date tweeted: Sat Jun 18 20:30:21 +0000 2011
+Tweet: RT @JerryBrownGov: Today I vetoed the state budget (video): http://bit.ly/mKx9mL
+
+Date tweeted: Sat Jun 11 17:17:22 +0000 2011
+Tweet: I'm joining Favo.rs, where professionals broadcast & fulfill each other's help requests. Get invited: http://t.co/XouaJBI via @3favors
+
+Date tweeted: Sun Aug 16 15:47:19 +0000 2009
+Tweet: Had a great time at the Tobin James BBQ last night - good music, nice wine & Paso is beautiful this time of year (especially around sunset)
+
+-----------------------------------------------------------------------------------------------twitter
+
+Twitter-Query: 
+Date tweeted: Mon Sep 05 00:28:15 +0000 2016
+Tweet: First tweet in four years! Guess I just became an active user.
+
+Date tweeted: Mon Jan 09 20:53:04 +0000 2012
+Tweet: Pls RT: @senatorreid @chuckschumer @mcconnellpress We need u to stand w the Internet and kill #PIPA http://t.co/4umO9dSq via @demandprogress
+
+Date tweeted: Wed Jan 04 02:23:42 +0000 2012
+Tweet: 14 Senators introed bill to undo indefinite detention of Americans thru #NDAA. Tell yours to join: http://t.co/ueGlhttb via @demandprogress
+
+Date tweeted: Sat Sep 24 23:31:16 +0000 2011
+Tweet: I just donated to @Amnesty! Won't you join me in supporting #HumanRights for all? http://t.co/BT2WSXwk
+
+Date tweeted: Fri Sep 09 05:43:25 +0000 2011
+Tweet: Next generation of social media? http://t.co/ezT6Yc9 via @3favors
+
+Date tweeted: Fri Oct 07 21:45:01 +0000 2011
+Tweet: RT @Adbusters An Anonymous Investment Manager on the 1 Percent bit.ly/njyyNh #ows Interesting info
+
+Date tweeted: Sun Aug 07 17:50:48 +0000 2011
+Tweet: RT @WSJ: In defense of boredom: Scott Adams argues that constant stimulation is hurting our creativity http://on.wsj.com/pWWuTg
+
+Date tweeted: Wed Aug 24 15:13:19 +0000 2011
+Tweet: @rspeaker Congrats!
+
+Date tweeted: Sun Aug 07 02:36:35 +0000 2011
+Tweet: $214 Trillion? I've heard $14 Trillion, $65 Trillion, $110 Trillion. Where does it end?
+
+Date tweeted: Sat Jul 30 05:32:32 +0000 2011
+Tweet: Rest in Peace John E. Anderson.
+http://t.co/LnMR33y
+
+Date tweeted: Thu Jul 14 05:43:26 +0000 2011
+Tweet: AllThingsD: Do Us a Favor and Read About This Social Start-up Called Favo.rs http://t.co/kDPqcdk via @3favors
+
+Date tweeted: Mon Jul 04 17:49:27 +0000 2011
+Tweet: @MWinty, sign up for Klout and see how we compare! http://t.co/5338Qzm
+
+Date tweeted: Fri Jul 01 06:18:21 +0000 2011
+Tweet: Help spread the word about this amazing short film crew out of Phoenix, AZ that needs support! http://t.co/P5mcdEm via @3favors
+
+Date tweeted: Sun Aug 07 02:35:38 +0000 2011
+Tweet: RT @nprpolitics: A National Debt Of $14 Trillion? Try $211 Trillion http://n.pr/qEpB6a
+
+Date tweeted: Thu Jun 30 04:16:59 +0000 2011
+Tweet: Hiring technical Platform PM at Zynga. CS/equiv degree preferred. Email tim@zynga.com. http://t.co/iYB6Sru via @3favors
+
+Date tweeted: Sun Jun 26 05:23:26 +0000 2011
+Tweet: Join Favo.rs, where professionals help each other with their requests! http://t.co/VYvEjQD via @3favors
+
+Date tweeted: Sat Jun 18 20:33:07 +0000 2011
+Tweet: @JerryBrownGov Good on you Gov Brown! Keep up the great work!
+
+Date tweeted: Sat Jun 18 20:30:21 +0000 2011
+Tweet: RT @JerryBrownGov: Today I vetoed the state budget (video): http://bit.ly/mKx9mL
+
+Date tweeted: Sat Jun 11 17:17:22 +0000 2011
+Tweet: I'm joining Favo.rs, where professionals broadcast & fulfill each other's help requests. Get invited: http://t.co/XouaJBI via @3favors
+
+Date tweeted: Sun Aug 16 15:47:19 +0000 2009
+Tweet: Had a great time at the Tobin James BBQ last night - good music, nice wine & Paso is beautiful this time of year (especially around sunset)
+
+-----------------------------------------------------------------------------------------------twitter
+
+predefined task
+next command requested in 'random.txt'
+
+Spotify-Query: "I Want it That Way"
+Artist: Backstreet Boys
+Song Name: I Want It That Way
+Preview URL: https://p.scdn.co/mp3-preview/e72a05dc3f69c891e3390c3ceaa77fad02f6b5f6
+Album Name: The Hits--Chapter One
+-----------------------------------------------------------------------------------------------spotify
+
+Spotify-Query: More than a Feeling 
+Artist: Boston
+Song Name: More Than a Feeling
+Preview URL: https://p.scdn.co/mp3-preview/97aaefeb43d0e2368526778487c7097607d5d78d
+Album Name: Boston
+-----------------------------------------------------------------------------------------------spotify
+
+Movie-Query: A Hard Day's Night 
+Title: A Hard Day's Night
+Release Year: 1964
+IMDB Rating: 7.7
+Country: UK
+Language: English, German, French
+Plot Synopsis: A 'typical' day in the life of the Beatles, including many of their famous songs.
+Actors: The Beatles, John Lennon, Paul McCartney, George Harrison
+Rotten Tomatoes Rating: 8.5
+Rotten Tomatoes URL: http://www.rottentomatoes.com/m/beatles_a_hard_days_night/
+-----------------------------------------------------------------------------------------------IMDB
+
+Undefined-command: this-is-a-command
+query: you don't know 
+-----------------------------------------------------------------------------------------------Undefined
+
+Undefined-command: this-is-a-command
+query: you don't know 
+-----------------------------------------------------------------------------------------------Undefined
+
+Movie-Query: A Hard Day's Night 
+Title: A Hard Day's Night
+Release Year: 1964
+IMDB Rating: 7.7
+Country: UK
+Language: English, German, French
+Plot Synopsis: A 'typical' day in the life of the Beatles, including many of their famous songs.
+Actors: The Beatles, John Lennon, Paul McCartney, George Harrison
+Rotten Tomatoes Rating: 8.5
+Rotten Tomatoes URL: http://www.rottentomatoes.com/m/beatles_a_hard_days_night/
+-----------------------------------------------------------------------------------------------IMDB
+
+Spotify-Query: More than a Feeling 
+Artist: Boston
+Song Name: More Than a Feeling
+Preview URL: https://p.scdn.co/mp3-preview/97aaefeb43d0e2368526778487c7097607d5d78d
+Album Name: Boston
+-----------------------------------------------------------------------------------------------spotify
+
+predefined task
+next command requested in 'random.txt'
+
+Spotify-Query: "I Want it That Way"
+Artist: Backstreet Boys
+Song Name: I Want It That Way
+Preview URL: https://p.scdn.co/mp3-preview/e72a05dc3f69c891e3390c3ceaa77fad02f6b5f6
+Album Name: The Hits--Chapter One
+-----------------------------------------------------------------------------------------------spotify
+
+Twitter-Query: 
+Date tweeted: Mon Sep 05 00:28:15 +0000 2016
+Tweet: First tweet in four years! Guess I just became an active user.
+
+Date tweeted: Mon Jan 09 20:53:04 +0000 2012
+Tweet: Pls RT: @senatorreid @chuckschumer @mcconnellpress We need u to stand w the Internet and kill #PIPA http://t.co/4umO9dSq via @demandprogress
+
+Date tweeted: Wed Jan 04 02:23:42 +0000 2012
+Tweet: 14 Senators introed bill to undo indefinite detention of Americans thru #NDAA. Tell yours to join: http://t.co/ueGlhttb via @demandprogress
+
+Date tweeted: Fri Oct 07 21:45:01 +0000 2011
+Tweet: RT @Adbusters An Anonymous Investment Manager on the 1 Percent bit.ly/njyyNh #ows Interesting info
+
+Date tweeted: Sat Sep 24 23:31:16 +0000 2011
+Tweet: I just donated to @Amnesty! Won't you join me in supporting #HumanRights for all? http://t.co/BT2WSXwk
+
+Date tweeted: Fri Sep 09 05:43:25 +0000 2011
+Tweet: Next generation of social media? http://t.co/ezT6Yc9 via @3favors
+
+Date tweeted: Wed Aug 24 15:13:19 +0000 2011
+Tweet: @rspeaker Congrats!
+
+Date tweeted: Sun Aug 07 17:50:48 +0000 2011
+Tweet: RT @WSJ: In defense of boredom: Scott Adams argues that constant stimulation is hurting our creativity http://on.wsj.com/pWWuTg
+
+Date tweeted: Sun Aug 07 02:36:35 +0000 2011
+Tweet: $214 Trillion? I've heard $14 Trillion, $65 Trillion, $110 Trillion. Where does it end?
+
+Date tweeted: Sun Aug 07 02:35:38 +0000 2011
+Tweet: RT @nprpolitics: A National Debt Of $14 Trillion? Try $211 Trillion http://n.pr/qEpB6a
+
+Date tweeted: Sat Jul 30 05:32:32 +0000 2011
+Tweet: Rest in Peace John E. Anderson.
+http://t.co/LnMR33y
+
+Date tweeted: Thu Jul 14 05:43:26 +0000 2011
+Tweet: AllThingsD: Do Us a Favor and Read About This Social Start-up Called Favo.rs http://t.co/kDPqcdk via @3favors
+
+Date tweeted: Mon Jul 04 17:49:27 +0000 2011
+Tweet: @MWinty, sign up for Klout and see how we compare! http://t.co/5338Qzm
+
+Date tweeted: Fri Jul 01 06:18:21 +0000 2011
+Tweet: Help spread the word about this amazing short film crew out of Phoenix, AZ that needs support! http://t.co/P5mcdEm via @3favors
+
+Date tweeted: Thu Jun 30 04:16:59 +0000 2011
+Tweet: Hiring technical Platform PM at Zynga. CS/equiv degree preferred. Email tim@zynga.com. http://t.co/iYB6Sru via @3favors
+
+Date tweeted: Sun Jun 26 05:23:26 +0000 2011
+Tweet: Join Favo.rs, where professionals help each other with their requests! http://t.co/VYvEjQD via @3favors
+
+Date tweeted: Sat Jun 18 20:33:07 +0000 2011
+Tweet: @JerryBrownGov Good on you Gov Brown! Keep up the great work!
+
+Date tweeted: Sat Jun 18 20:30:21 +0000 2011
+Tweet: RT @JerryBrownGov: Today I vetoed the state budget (video): http://bit.ly/mKx9mL
+
+Date tweeted: Sat Jun 11 17:17:22 +0000 2011
+Tweet: I'm joining Favo.rs, where professionals broadcast & fulfill each other's help requests. Get invited: http://t.co/XouaJBI via @3favors
+
+Date tweeted: Sun Aug 16 15:47:19 +0000 2009
+Tweet: Had a great time at the Tobin James BBQ last night - good music, nice wine & Paso is beautiful this time of year (especially around sunset)
+
+-----------------------------------------------------------------------------------------------twitter
+

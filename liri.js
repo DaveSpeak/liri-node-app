@@ -1,8 +1,13 @@
 var fs = require('fs');
 var command=process.argv[2];
-var query=process.argv[3];
-var allowedCommands=["spotify-this-song","movie-this","my-tweets","do-what-it-says"];
+var query="";
+// for (var i=3;i<process.argv.length;i++){
+//   query+=process.argv[i]+" ";
+// }
 
+
+// var query=process.argv[3];
+var allowedCommands=["spotify-this-song","movie-this","my-tweets","do-what-it-says"];
 var commands= {
   'my-tweets': function(){
     var keys = require('./keys.js');
@@ -134,35 +139,59 @@ var commands= {
     });
   },
   'do-what-it-says':function(){
-    var fs = require('fs');
+    // var fs = require('fs');
     fs.readFile("random.txt", "utf8", function(error, data) {
       var dataArr = data.split(',');
       command=dataArr[0];
       query=dataArr[1];
       fs.appendFile('log.txt', 'predefined task\n'+
                               'next command requested in \'random.txt\'\n\n',
-                              function(err){
+        function(err){
           if(err){
             console.log(err);
           }
-      });
+        }
+      );
       commands[command]();
     });
+  },
+  'initialize':function(){
+    for (var i=3;i<process.argv.length;i++){
+      query+=process.argv[i]+" ";
+    }
+    if (allowedCommands.indexOf(command)!=-1){
+      if (command==="spotify-this-song" &&query===undefined){query="The Sign Ace of Base"};
+      if (command==="movie-this" && query===undefined){query="Mr. Nobody"};
+      commands[command]();
+    }else {
+      console.log('Sorry, I don\'t recognize that command!');
+      fs.appendFile('log.txt', 'Undefined-command: '+command+'\n'+
+                              'query: '+query+'\n'+    
+                              '-----------------------------------------------------------------------------------------------Undefined\n\n',
+        function(err){
+          if(err){
+            console.log(err);
+          }
+        }
+      );
+    }  
   }
 }
 
-if (allowedCommands.indexOf(command)!=-1){
-  if (command==="spotify-this-song" &&query===undefined){query="The Sign Ace of Base"};
-  if (command==="movie-this" && query===undefined){query="Mr. Nobody"};
-  commands[command]();
-}else {
-  console.log('Sorry, I don\'t recognize that command!');
-  fs.appendFile('log.txt', 'Undefined-command: '+command+'\n'+
-                          'query: '+query+'\n'+    
-                          '-----------------------------------------------------------------------------------------------Undefined\n\n',
-                          function(err){
-      if(err){
-        console.log(err);
-      }
-  });
-}
+commands['initialize']();
+// if (allowedCommands.indexOf(command)!=-1){
+//   if (command==="spotify-this-song" &&query===undefined){query="The Sign Ace of Base"};
+//   if (command==="movie-this" && query===undefined){query="Mr. Nobody"};
+//   commands[command]();
+// }else {
+//   console.log('Sorry, I don\'t recognize that command!');
+//   fs.appendFile('log.txt', 'Undefined-command: '+command+'\n'+
+//                           'query: '+query+'\n'+    
+//                           '-----------------------------------------------------------------------------------------------Undefined\n\n',
+//     function(err){
+//       if(err){
+//         console.log(err);
+//       }
+//     }
+//   );
+// }
