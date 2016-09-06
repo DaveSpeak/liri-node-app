@@ -486,3 +486,127 @@ Tweet: Cheering crowds line the Champs Elysees, as French troops parade through 
 
 -----------------------------------------------------------------------------------------------twitter
 
+Twitter-Query: DavidSpeak
+Date tweeted: Mon Sep 05 00:28:15 +0000 2016
+Tweet: First tweet in four years! Guess I just became an active user.
+
+Date tweeted: Mon Jan 09 20:53:04 +0000 2012
+Tweet: Pls RT: @senatorreid @chuckschumer @mcconnellpress We need u to stand w the Internet and kill #PIPA http://t.co/4umO9dSq via @demandprogress
+
+Date tweeted: Wed Jan 04 02:23:42 +0000 2012
+Tweet: 14 Senators introed bill to undo indefinite detention of Americans thru #NDAA. Tell yours to join: http://t.co/ueGlhttb via @demandprogress
+
+Date tweeted: Fri Oct 07 21:45:01 +0000 2011
+Tweet: RT @Adbusters An Anonymous Investment Manager on the 1 Percent bit.ly/njyyNh #ows Interesting info
+
+Date tweeted: Sat Sep 24 23:31:16 +0000 2011
+Tweet: I just donated to @Amnesty! Won't you join me in supporting #HumanRights for all? http://t.co/BT2WSXwk
+
+Date tweeted: Fri Sep 09 05:43:25 +0000 2011
+Tweet: Next generation of social media? http://t.co/ezT6Yc9 via @3favors
+
+Date tweeted: Wed Aug 24 15:13:19 +0000 2011
+Tweet: @rspeaker Congrats!
+
+Date tweeted: Sun Aug 07 17:50:48 +0000 2011
+Tweet: RT @WSJ: In defense of boredom: Scott Adams argues that constant stimulation is hurting our creativity http://on.wsj.com/pWWuTg
+
+Date tweeted: Sun Aug 07 02:36:35 +0000 2011
+Tweet: $214 Trillion? I've heard $14 Trillion, $65 Trillion, $110 Trillion. Where does it end?
+
+Date tweeted: Sun Aug 07 02:35:38 +0000 2011
+Tweet: RT @nprpolitics: A National Debt Of $14 Trillion? Try $211 Trillion http://n.pr/qEpB6a
+
+Date tweeted: Sat Jul 30 05:32:32 +0000 2011
+Tweet: Rest in Peace John E. Anderson.
+http://t.co/LnMR33y
+
+Date tweeted: Thu Jul 14 05:43:26 +0000 2011
+Tweet: AllThingsD: Do Us a Favor and Read About This Social Start-up Called Favo.rs http://t.co/kDPqcdk via @3favors
+
+Date tweeted: Mon Jul 04 17:49:27 +0000 2011
+Tweet: @MWinty, sign up for Klout and see how we compare! http://t.co/5338Qzm
+
+Date tweeted: Fri Jul 01 06:18:21 +0000 2011
+Tweet: Help spread the word about this amazing short film crew out of Phoenix, AZ that needs support! http://t.co/P5mcdEm via @3favors
+
+Date tweeted: Thu Jun 30 04:16:59 +0000 2011
+Tweet: Hiring technical Platform PM at Zynga. CS/equiv degree preferred. Email tim@zynga.com. http://t.co/iYB6Sru via @3favors
+
+Date tweeted: Sun Jun 26 05:23:26 +0000 2011
+Tweet: Join Favo.rs, where professionals help each other with their requests! http://t.co/VYvEjQD via @3favors
+
+Date tweeted: Sat Jun 18 20:33:07 +0000 2011
+Tweet: @JerryBrownGov Good on you Gov Brown! Keep up the great work!
+
+Date tweeted: Sat Jun 18 20:30:21 +0000 2011
+Tweet: RT @JerryBrownGov: Today I vetoed the state budget (video): http://bit.ly/mKx9mL
+
+Date tweeted: Sat Jun 11 17:17:22 +0000 2011
+Tweet: I'm joining Favo.rs, where professionals broadcast & fulfill each other's help requests. Get invited: http://t.co/XouaJBI via @3favors
+
+Date tweeted: Sun Aug 16 15:47:19 +0000 2009
+Tweet: Had a great time at the Tobin James BBQ last night - good music, nice wine & Paso is beautiful this time of year (especially around sunset)
+
+-----------------------------------------------------------------------------------------------twitter
+
+Spotify-Query: Freebird 
+Artist: Will To Power
+Song Name: Baby, I Love Your Way/Freebird
+Preview URL: https://p.scdn.co/mp3-preview/1a2bb02a1e585c2e9c0271ba34c2e113d29acfd8
+Album Name: Will To Power
+-----------------------------------------------------------------------------------------------spotify
+
+Spotify-Query: The Sign Ace of Base
+Artist: Ace of Base
+Song Name: The Sign
+Preview URL: https://p.scdn.co/mp3-preview/177e65fc2b8babeaf9266c0ad2a1cb1e18730ae4
+Album Name: The Sign (US Album) [Remastered]
+-----------------------------------------------------------------------------------------------spotify
+
+Movie-Query: Terminator 
+Title: Terminator
+Release Year: 2001
+IMDB Rating: 4.8
+Country: USA
+Language: English
+Plot Synopsis: N/A
+Actors: Joshua Miller
+Rotten Tomatoes Rating: N/A
+Rotten Tomatoes URL: N/A
+-----------------------------------------------------------------------------------------------IMDB
+
+Movie-Query: The Terminator 
+Title: The Terminator
+Release Year: 1984
+IMDB Rating: 8.1
+Country: UK, USA
+Language: English, Spanish
+Plot Synopsis: A cyborg is sent from the future on a deadly mission. He has to kill Sarah Connor, a young woman whose life will have a great significance in years to come. Sarah has only one protector - Kyle Reese - also sent from the future. The Terminator uses his exceptional intelligence and strength to find Sarah, but is there any way to stop the seemingly indestructible cyborg ?
+Actors: Arnold Schwarzenegger, Michael Biehn, Linda Hamilton, Paul Winfield
+Rotten Tomatoes Rating: 8.8
+Rotten Tomatoes URL: http://www.rottentomatoes.com/m/terminator/
+-----------------------------------------------------------------------------------------------IMDB
+
+Movie-Query: Mr. Nobody
+Title: Mr. Nobody
+Release Year: 2009
+IMDB Rating: 7.9
+Country: Belgium, Germany, Canada, France
+Language: English, Mohawk
+Plot Synopsis: In the year 2092, one hundred eighteen year old Nemo is recounting his life story to a reporter. He is less than clear, often times thinking that he is only thirty-four years of age. But his story becomes more confusing after he does focus on the fact of his current real age. He tells of his life at three primary points in his life: at age nine (when his parents divorced), age sixteen and age thirty-four. The confusing aspect of the story is that he tells of alternate life paths, often changing course with the flick of a decision at each of those ages. One life path has him ultimately married to Elise, a depressed woman who never got over the unrequited love she had for a guy named Stefano when she was a teenager and who asked Nemo to swear that when she died he would sprinkle her ashes on Mars. A second life path has him married to Jean. Their life is one of luxury but one also of utter boredom. And a third life path has him in a torrid romance with his step-sister Anna, the two who, as adults, would search for each other after having been torn apart as teenagers. These life paths also intersect, with the three women sometimes entering the alternate life in some other aspect. Are any of these lives real or are they all a figment of his imagination?
+Actors: Jared Leto, Sarah Polley, Diane Kruger, Linh Dan Pham
+Rotten Tomatoes Rating: 6.6
+Rotten Tomatoes URL: http://www.rottentomatoes.com/m/mr-nobody/
+-----------------------------------------------------------------------------------------------IMDB
+
+predefined task
+next command requested in 'random.txt'
+
+Spotify-Query: "I Want it That Way"
+Artist: Backstreet Boys
+Song Name: I Want It That Way
+Preview URL: https://p.scdn.co/mp3-preview/e72a05dc3f69c891e3390c3ceaa77fad02f6b5f6
+Album Name: The Hits--Chapter One
+-----------------------------------------------------------------------------------------------spotify
+
