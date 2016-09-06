@@ -1,12 +1,6 @@
 var fs = require('fs');
 var command=process.argv[2];
 var query="";
-// for (var i=3;i<process.argv.length;i++){
-//   query+=process.argv[i]+" ";
-// }
-
-
-// var query=process.argv[3];
 var allowedCommands=["spotify-this-song","movie-this","my-tweets","do-what-it-says"];
 var commands= {
   'my-tweets': function(){
@@ -22,39 +16,20 @@ var commands= {
       access_token_key: access_token_key,
       access_token_secret: access_token_secret
     });
-    var params = {screen_name: 'DavidSpeak', count:21};
+    var params = {screen_name: query, count:21};
     client.get('statuses/user_timeline', params, function(error, tweets, response) {
       if (!error) {
-        fs.appendFile('log.txt', 'Twitter-Query: '+'\n', function(err){
-            if(err){
-              console.log(err);
-            }
+        console.log('Twitter-Query for: '+query+'\n');
+        fs.appendFileSync('log.txt', 'Twitter-Query: '+query+'\n');
+        tweets.map(function(i){
+          console.log('Date tweeted: '+(i).created_at+'\nTweet: '+(i).text+'\n');
+          fs.appendFileSync('log.txt', 'Date tweeted: '+(i).created_at+'\nTweet: '+(i).text+'\n\n');
         });
-      	for (var i = 0; i<tweets.length; i++) {
-      		console.log('Date tweeted: '+tweets[i].created_at+'\nTweet: '+tweets[i].text+'\n');
-          fs.appendFile('log.txt', 'Date tweeted: '+tweets[i].created_at+'\nTweet: '+tweets[i].text+'\n\n',
-            function(err){
-              if(err){
-                console.log(err);
-              }
-            }
-          );
-      	}
-        fs.appendFile('log.txt', '-----------------------------------------------------------------------------------------------twitter\n\n',
-            function(err){
-              if(err){
-                console.log(err);
-              }
-        });
+        fs.appendFileSync('log.txt', '-----------------------------------------------------------------------------------------------twitter\n\n');
       } else {
           console.log('Twitter Error: '+ error);
-          fs.appendFile('log.txt', 'unknown twitter error: '+error+'\n'+
-                                  '-----------------------------------------------------------------------------------------------twitter\n\n',
-              function(err){
-                if(err){
-                  console.log(err);
-                }
-          });
+          fs.appendFileSync('log.txt', 'unknown twitter error: '+error+'\n'+
+                                  '-----------------------------------------------------------------------------------------------twitter\n\n');
         }
     });
   },
@@ -119,11 +94,12 @@ var commands= {
                                   'Rotten Tomatoes Rating: '+data.tomatoRating+'\n'+
                                   'Rotten Tomatoes URL: '+data.tomatoURL+'\n'+
                                   '-----------------------------------------------------------------------------------------------IMDB\n\n',
-                                  function(err){
+            function(err){
               if(err){
                 console.log(err);
               }
-          });
+            }
+          );
         }else {
           console.log('Looks like IMDB can\'t find that title, try an alternate spelling');
           fs.appendFile('log.txt', 'Movie-Query: '+query+'\n'+
@@ -139,7 +115,6 @@ var commands= {
     });
   },
   'do-what-it-says':function(){
-    // var fs = require('fs');
     fs.readFile("random.txt", "utf8", function(error, data) {
       var dataArr = data.split(',');
       command=dataArr[0];
@@ -156,12 +131,15 @@ var commands= {
     });
   },
   'initialize':function(){
-    for (var i=3;i<process.argv.length;i++){
-      query+=process.argv[i]+" ";
-    }
+    process.argv.filter(function(item, index, array){
+      if (index>2) {return item};
+    }).reduce(function(placeholder,i){
+      query+=i+" ";
+    },0);
     if (allowedCommands.indexOf(command)!=-1){
-      if (command==="spotify-this-song" &&query===undefined){query="The Sign Ace of Base"};
-      if (command==="movie-this" && query===undefined){query="Mr. Nobody"};
+      if (command==="spotify-this-song" &&query===""){query="The Sign Ace of Base"};
+      if (command==="movie-this" && query===""){query="Mr. Nobody"};
+      if (command==="my-tweets" && query===""){query="DavidSpeak"};
       commands[command]();
     }else {
       console.log('Sorry, I don\'t recognize that command!');
@@ -179,19 +157,3 @@ var commands= {
 }
 
 commands['initialize']();
-// if (allowedCommands.indexOf(command)!=-1){
-//   if (command==="spotify-this-song" &&query===undefined){query="The Sign Ace of Base"};
-//   if (command==="movie-this" && query===undefined){query="Mr. Nobody"};
-//   commands[command]();
-// }else {
-//   console.log('Sorry, I don\'t recognize that command!');
-//   fs.appendFile('log.txt', 'Undefined-command: '+command+'\n'+
-//                           'query: '+query+'\n'+    
-//                           '-----------------------------------------------------------------------------------------------Undefined\n\n',
-//     function(err){
-//       if(err){
-//         console.log(err);
-//       }
-//     }
-//   );
-// }

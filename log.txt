@@ -1,317 +1,88 @@
-predefined task
-next command requested in 'random.txt'
-
-Spotify-Query: "I Want it That Way"
-Artist: Backstreet Boys
-Song Name: I Want It That Way
-Preview URL: https://p.scdn.co/mp3-preview/e72a05dc3f69c891e3390c3ceaa77fad02f6b5f6
-Album Name: The Hits--Chapter One
------------------------------------------------------------------------------------------------spotify
-
-Undefined-command: soptify-this-song
-query: I Want it That Way
+Undefined-command: some-command
+query: you've never heard of 
 -----------------------------------------------------------------------------------------------Undefined
 
-Movie-Query: A Hard Day's Night
-Title: A Hard Day's Night
-Release Year: 1964
-IMDB Rating: 7.7
-Country: UK
-Language: English, German, French
-Plot Synopsis: A 'typical' day in the life of the Beatles, including many of their famous songs.
-Actors: The Beatles, John Lennon, Paul McCartney, George Harrison
-Rotten Tomatoes Rating: 8.5
-Rotten Tomatoes URL: http://www.rottentomatoes.com/m/beatles_a_hard_days_night/
+Spotify-Query: The Sign Ace of Base
+Artist: Ace of Base
+Song Name: The Sign
+Preview URL: https://p.scdn.co/mp3-preview/177e65fc2b8babeaf9266c0ad2a1cb1e18730ae4
+Album Name: The Sign (US Album) [Remastered]
+-----------------------------------------------------------------------------------------------spotify
+
+Movie-Query: Mr. Nobody
+Title: Mr. Nobody
+Release Year: 2009
+IMDB Rating: 7.9
+Country: Belgium, Germany, Canada, France
+Language: English, Mohawk
+Plot Synopsis: In the year 2092, one hundred eighteen year old Nemo is recounting his life story to a reporter. He is less than clear, often times thinking that he is only thirty-four years of age. But his story becomes more confusing after he does focus on the fact of his current real age. He tells of his life at three primary points in his life: at age nine (when his parents divorced), age sixteen and age thirty-four. The confusing aspect of the story is that he tells of alternate life paths, often changing course with the flick of a decision at each of those ages. One life path has him ultimately married to Elise, a depressed woman who never got over the unrequited love she had for a guy named Stefano when she was a teenager and who asked Nemo to swear that when she died he would sprinkle her ashes on Mars. A second life path has him married to Jean. Their life is one of luxury but one also of utter boredom. And a third life path has him in a torrid romance with his step-sister Anna, the two who, as adults, would search for each other after having been torn apart as teenagers. These life paths also intersect, with the three women sometimes entering the alternate life in some other aspect. Are any of these lives real or are they all a figment of his imagination?
+Actors: Jared Leto, Sarah Polley, Diane Kruger, Linh Dan Pham
+Rotten Tomatoes Rating: 6.6
+Rotten Tomatoes URL: http://www.rottentomatoes.com/m/mr-nobody/
 -----------------------------------------------------------------------------------------------IMDB
 
-Spotify-Query: Day Tripper
-Artist: The Beatles
-Song Name: Day Tripper - Remastered 2015
-Preview URL: https://p.scdn.co/mp3-preview/f0f3594e9dc4e7ab7b649446a228c6ab3e5c96f3
-Album Name: 1 (Remastered)
------------------------------------------------------------------------------------------------spotify
+Movie-Query: Army of Darkenss 
+IMDB couldn't find that search query.
+-----------------------------------------------------------------------------------------------IMDB
 
-Twitter-Query: 
-Date tweeted: Mon Sep 05 00:28:15 +0000 2016
-Tweet: First tweet in four years! Guess I just became an active user.
+Movie-Query: Evil Dead 3 
+IMDB couldn't find that search query.
+-----------------------------------------------------------------------------------------------IMDB
 
-Date tweeted: Mon Jan 09 20:53:04 +0000 2012
-Tweet: Pls RT: @senatorreid @chuckschumer @mcconnellpress We need u to stand w the Internet and kill #PIPA http://t.co/4umO9dSq via @demandprogress
-
-Date tweeted: Wed Jan 04 02:23:42 +0000 2012
-Tweet: 14 Senators introed bill to undo indefinite detention of Americans thru #NDAA. Tell yours to join: http://t.co/ueGlhttb via @demandprogress
-
-Date tweeted: Fri Oct 07 21:45:01 +0000 2011
-Tweet: RT @Adbusters An Anonymous Investment Manager on the 1 Percent bit.ly/njyyNh #ows Interesting info
-
-Date tweeted: Sat Sep 24 23:31:16 +0000 2011
-Tweet: I just donated to @Amnesty! Won't you join me in supporting #HumanRights for all? http://t.co/BT2WSXwk
-
-Date tweeted: Fri Sep 09 05:43:25 +0000 2011
-Tweet: Next generation of social media? http://t.co/ezT6Yc9 via @3favors
-
-Date tweeted: Wed Aug 24 15:13:19 +0000 2011
-Tweet: @rspeaker Congrats!
-
-Date tweeted: Sun Aug 07 17:50:48 +0000 2011
-Tweet: RT @WSJ: In defense of boredom: Scott Adams argues that constant stimulation is hurting our creativity http://on.wsj.com/pWWuTg
-
-Date tweeted: Sun Aug 07 02:36:35 +0000 2011
-Tweet: $214 Trillion? I've heard $14 Trillion, $65 Trillion, $110 Trillion. Where does it end?
-
-Date tweeted: Sun Aug 07 02:35:38 +0000 2011
-Tweet: RT @nprpolitics: A National Debt Of $14 Trillion? Try $211 Trillion http://n.pr/qEpB6a
-
-Date tweeted: Sat Jul 30 05:32:32 +0000 2011
-Tweet: Rest in Peace John E. Anderson.
-http://t.co/LnMR33y
-
-Date tweeted: Thu Jul 14 05:43:26 +0000 2011
-Tweet: AllThingsD: Do Us a Favor and Read About This Social Start-up Called Favo.rs http://t.co/kDPqcdk via @3favors
-
-Date tweeted: Mon Jul 04 17:49:27 +0000 2011
-Tweet: @MWinty, sign up for Klout and see how we compare! http://t.co/5338Qzm
-
-Date tweeted: Fri Jul 01 06:18:21 +0000 2011
-Tweet: Help spread the word about this amazing short film crew out of Phoenix, AZ that needs support! http://t.co/P5mcdEm via @3favors
-
-Date tweeted: Thu Jun 30 04:16:59 +0000 2011
-Tweet: Hiring technical Platform PM at Zynga. CS/equiv degree preferred. Email tim@zynga.com. http://t.co/iYB6Sru via @3favors
-
-Date tweeted: Sun Jun 26 05:23:26 +0000 2011
-Tweet: Join Favo.rs, where professionals help each other with their requests! http://t.co/VYvEjQD via @3favors
-
-Date tweeted: Sat Jun 18 20:33:07 +0000 2011
-Tweet: @JerryBrownGov Good on you Gov Brown! Keep up the great work!
-
-Date tweeted: Sat Jun 18 20:30:21 +0000 2011
-Tweet: RT @JerryBrownGov: Today I vetoed the state budget (video): http://bit.ly/mKx9mL
-
-Date tweeted: Sat Jun 11 17:17:22 +0000 2011
-Tweet: I'm joining Favo.rs, where professionals broadcast & fulfill each other's help requests. Get invited: http://t.co/XouaJBI via @3favors
-
-Date tweeted: Sun Aug 16 15:47:19 +0000 2009
-Tweet: Had a great time at the Tobin James BBQ last night - good music, nice wine & Paso is beautiful this time of year (especially around sunset)
-
------------------------------------------------------------------------------------------------twitter
-
-Twitter-Query: 
-Date tweeted: Mon Jan 09 20:53:04 +0000 2012
-Tweet: Pls RT: @senatorreid @chuckschumer @mcconnellpress We need u to stand w the Internet and kill #PIPA http://t.co/4umO9dSq via @demandprogress
-
-Date tweeted: Mon Sep 05 00:28:15 +0000 2016
-Tweet: First tweet in four years! Guess I just became an active user.
-
-Date tweeted: Wed Jan 04 02:23:42 +0000 2012
-Tweet: 14 Senators introed bill to undo indefinite detention of Americans thru #NDAA. Tell yours to join: http://t.co/ueGlhttb via @demandprogress
-
-Date tweeted: Sat Sep 24 23:31:16 +0000 2011
-Tweet: I just donated to @Amnesty! Won't you join me in supporting #HumanRights for all? http://t.co/BT2WSXwk
-
-Date tweeted: Fri Oct 07 21:45:01 +0000 2011
-Tweet: RT @Adbusters An Anonymous Investment Manager on the 1 Percent bit.ly/njyyNh #ows Interesting info
-
-Date tweeted: Fri Sep 09 05:43:25 +0000 2011
-Tweet: Next generation of social media? http://t.co/ezT6Yc9 via @3favors
-
-Date tweeted: Wed Aug 24 15:13:19 +0000 2011
-Tweet: @rspeaker Congrats!
-
-Date tweeted: Sun Aug 07 17:50:48 +0000 2011
-Tweet: RT @WSJ: In defense of boredom: Scott Adams argues that constant stimulation is hurting our creativity http://on.wsj.com/pWWuTg
-
-Date tweeted: Sun Aug 07 02:36:35 +0000 2011
-Tweet: $214 Trillion? I've heard $14 Trillion, $65 Trillion, $110 Trillion. Where does it end?
-
-Date tweeted: Sat Jul 30 05:32:32 +0000 2011
-Tweet: Rest in Peace John E. Anderson.
-http://t.co/LnMR33y
-
-Date tweeted: Thu Jul 14 05:43:26 +0000 2011
-Tweet: AllThingsD: Do Us a Favor and Read About This Social Start-up Called Favo.rs http://t.co/kDPqcdk via @3favors
-
-Date tweeted: Mon Jul 04 17:49:27 +0000 2011
-Tweet: @MWinty, sign up for Klout and see how we compare! http://t.co/5338Qzm
-
-Date tweeted: Fri Jul 01 06:18:21 +0000 2011
-Tweet: Help spread the word about this amazing short film crew out of Phoenix, AZ that needs support! http://t.co/P5mcdEm via @3favors
-
-Date tweeted: Thu Jun 30 04:16:59 +0000 2011
-Tweet: Hiring technical Platform PM at Zynga. CS/equiv degree preferred. Email tim@zynga.com. http://t.co/iYB6Sru via @3favors
-
-Date tweeted: Sun Jun 26 05:23:26 +0000 2011
-Tweet: Join Favo.rs, where professionals help each other with their requests! http://t.co/VYvEjQD via @3favors
-
-Date tweeted: Sat Jun 18 20:33:07 +0000 2011
-Tweet: @JerryBrownGov Good on you Gov Brown! Keep up the great work!
-
-Date tweeted: Sat Jun 18 20:30:21 +0000 2011
-Tweet: RT @JerryBrownGov: Today I vetoed the state budget (video): http://bit.ly/mKx9mL
-
-Date tweeted: Sat Jun 11 17:17:22 +0000 2011
-Tweet: I'm joining Favo.rs, where professionals broadcast & fulfill each other's help requests. Get invited: http://t.co/XouaJBI via @3favors
-
-Date tweeted: Sun Aug 07 02:35:38 +0000 2011
-Tweet: RT @nprpolitics: A National Debt Of $14 Trillion? Try $211 Trillion http://n.pr/qEpB6a
-
-Date tweeted: Sun Aug 16 15:47:19 +0000 2009
-Tweet: Had a great time at the Tobin James BBQ last night - good music, nice wine & Paso is beautiful this time of year (especially around sunset)
-
------------------------------------------------------------------------------------------------twitter
-
-predefined task
-next command requested in 'random.txt'
-
-Spotify-Query: "I Want it That Way"
-Artist: Backstreet Boys
-Song Name: I Want It That Way
-Preview URL: https://p.scdn.co/mp3-preview/e72a05dc3f69c891e3390c3ceaa77fad02f6b5f6
-Album Name: The Hits--Chapter One
------------------------------------------------------------------------------------------------spotify
-
-Spotify-Query: IWantitthatway
-Artist: Various Artists
-Song Name: IWantItThatWay
-Preview URL: https://p.scdn.co/mp3-preview/e1e6778dce636077a6fb1358397040e072b1acc4
-Album Name: Panpipes For Lovers Vol 2
------------------------------------------------------------------------------------------------spotify
-
-Spotify-Query: I Want it that way 
-Artist: Backstreet Boys
-Song Name: I Want It That Way
-Preview URL: https://p.scdn.co/mp3-preview/e72a05dc3f69c891e3390c3ceaa77fad02f6b5f6
-Album Name: The Hits--Chapter One
------------------------------------------------------------------------------------------------spotify
-
-Spotify-Query: I Want it that Way 
-Artist: Backstreet Boys
-Song Name: I Want It That Way
-Preview URL: https://p.scdn.co/mp3-preview/e72a05dc3f69c891e3390c3ceaa77fad02f6b5f6
-Album Name: The Hits--Chapter One
------------------------------------------------------------------------------------------------spotify
-
-Movie-Query: The Omega Man 
-Title: The Omega Man
-Release Year: 1971
-IMDB Rating: 6.6
+Movie-Query: planet of the apes 
+Title: Planet of the Apes
+Release Year: 2001
+IMDB Rating: 5.7
 Country: USA
 Language: English
-Plot Synopsis: Army doctor Robert Neville struggles to create a cure for the plague that wiped out most of the human race.
-Actors: Charlton Heston, Anthony Zerbe, Rosalind Cash, Paul Koslo
-Rotten Tomatoes Rating: 5.6
-Rotten Tomatoes URL: http://www.rottentomatoes.com/m/omega_man/
+Plot Synopsis: An Air Force astronaut crash lands on a mysterious planet where evolved, talking apes dominate a race of primitive humans.
+Actors: Mark Wahlberg, Tim Roth, Helena Bonham Carter, Michael Clarke Duncan
+Rotten Tomatoes Rating: 5.5
+Rotten Tomatoes URL: http://www.rottentomatoes.com/m/1108704-planet_of_the_apes/
 -----------------------------------------------------------------------------------------------IMDB
 
-Movie-Query: Soylent Green 
-Title: Soylent Green
-Release Year: 1973
-IMDB Rating: 7.1
+Movie-Query: hook 
+Title: Hook
+Release Year: 1991
+IMDB Rating: 6.7
 Country: USA
-Language: English, Spanish
-Plot Synopsis: In 2022, Earth is overpopulated and totally polluted; the natural resources have been exhausted and the nourishment of the population is provided by Soylent Industries, a company that makes a food consisting of plankton from the oceans. In New York City, when Soylent's member of the board William R. Simonson is murdered apparently by a burglar at the Chelsea Towers West where he lives, efficient Detective Thorn is assigned to investigate the case with his partner Solomon "Sol" Roth. Thorn comes to the fancy apartment and meets Simonson's bodyguard Tab Fielding and the "furniture" (woman that is rented together with the flat) Shirl and the detective concludes that the executive was not victim of burglary but executed. Further, he finds that the Governor Santini and other powerful men want to disrupt and end Thorn's investigation. But Thorn continues his work and discovers a bizarre and disturbing secret of the ingredient used to manufacture Soylent Green.
-Actors: Charlton Heston, Leigh Taylor-Young, Chuck Connors, Joseph Cotten
-Rotten Tomatoes Rating: 6.0
-Rotten Tomatoes URL: http://www.rottentomatoes.com/m/soylent_green/
+Language: English
+Plot Synopsis: Peter Pan (Williams) has grown up to be a cut-throat merger and acquisitions lawyer, and is married to Wendy's granddaughter. Captain Hook (Hoffman) kidnaps his children, and Peter returns to Never Land with Tinkerbell (Roberts). With the help of her and the Lost Boys, he must remember how to be Peter Pan again in order to save his children by battling with Captain Hook once again.
+Actors: Dustin Hoffman, Robin Williams, Julia Roberts, Bob Hoskins
+Rotten Tomatoes Rating: 4.4
+Rotten Tomatoes URL: http://www.rottentomatoes.com/m/hook/
 -----------------------------------------------------------------------------------------------IMDB
 
-Twitter-Query: 
-Date tweeted: Mon Sep 05 00:28:15 +0000 2016
-Tweet: First tweet in four years! Guess I just became an active user.
+Movie-Query: Evil Dead 3 Army of Darkness 
+IMDB couldn't find that search query.
+-----------------------------------------------------------------------------------------------IMDB
 
-Date tweeted: Mon Jan 09 20:53:04 +0000 2012
-Tweet: Pls RT: @senatorreid @chuckschumer @mcconnellpress We need u to stand w the Internet and kill #PIPA http://t.co/4umO9dSq via @demandprogress
+Movie-Query: Army of Darkness 
+Title: Army of Darkness
+Release Year: 1992
+IMDB Rating: 7.6
+Country: USA
+Language: English
+Plot Synopsis: A man is accidentally transported to 1300 A.D., where he must battle an army of the dead and retrieve the Necronomicon so he can return home.
+Actors: Bruce Campbell, Embeth Davidtz, Marcus Gilbert, Ian Abercrombie
+Rotten Tomatoes Rating: 6.9
+Rotten Tomatoes URL: http://www.rottentomatoes.com/m/army_of_darkness/
+-----------------------------------------------------------------------------------------------IMDB
 
-Date tweeted: Wed Jan 04 02:23:42 +0000 2012
-Tweet: 14 Senators introed bill to undo indefinite detention of Americans thru #NDAA. Tell yours to join: http://t.co/ueGlhttb via @demandprogress
+Movie-Query: Army of Darkness 
+Title: Army of Darkness
+Release Year: 1992
+IMDB Rating: 7.6
+Country: USA
+Language: English
+Plot Synopsis: A man is accidentally transported to 1300 A.D., where he must battle an army of the dead and retrieve the Necronomicon so he can return home.
+Actors: Bruce Campbell, Embeth Davidtz, Marcus Gilbert, Ian Abercrombie
+Rotten Tomatoes Rating: 6.9
+Rotten Tomatoes URL: http://www.rottentomatoes.com/m/army_of_darkness/
+-----------------------------------------------------------------------------------------------IMDB
 
-Date tweeted: Fri Oct 07 21:45:01 +0000 2011
-Tweet: RT @Adbusters An Anonymous Investment Manager on the 1 Percent bit.ly/njyyNh #ows Interesting info
-
-Date tweeted: Fri Sep 09 05:43:25 +0000 2011
-Tweet: Next generation of social media? http://t.co/ezT6Yc9 via @3favors
-
-Date tweeted: Sat Sep 24 23:31:16 +0000 2011
-Tweet: I just donated to @Amnesty! Won't you join me in supporting #HumanRights for all? http://t.co/BT2WSXwk
-
-Date tweeted: Wed Aug 24 15:13:19 +0000 2011
-Tweet: @rspeaker Congrats!
-
-Date tweeted: Sun Aug 07 17:50:48 +0000 2011
-Tweet: RT @WSJ: In defense of boredom: Scott Adams argues that constant stimulation is hurting our creativity http://on.wsj.com/pWWuTg
-
-Date tweeted: Sun Aug 07 02:36:35 +0000 2011
-Tweet: $214 Trillion? I've heard $14 Trillion, $65 Trillion, $110 Trillion. Where does it end?
-
-Date tweeted: Sat Jul 30 05:32:32 +0000 2011
-Tweet: Rest in Peace John E. Anderson.
-http://t.co/LnMR33y
-
-Date tweeted: Sun Aug 07 02:35:38 +0000 2011
-Tweet: RT @nprpolitics: A National Debt Of $14 Trillion? Try $211 Trillion http://n.pr/qEpB6a
-
-Date tweeted: Thu Jul 14 05:43:26 +0000 2011
-Tweet: AllThingsD: Do Us a Favor and Read About This Social Start-up Called Favo.rs http://t.co/kDPqcdk via @3favors
-
-Date tweeted: Mon Jul 04 17:49:27 +0000 2011
-Tweet: @MWinty, sign up for Klout and see how we compare! http://t.co/5338Qzm
-
-Date tweeted: Thu Jun 30 04:16:59 +0000 2011
-Tweet: Hiring technical Platform PM at Zynga. CS/equiv degree preferred. Email tim@zynga.com. http://t.co/iYB6Sru via @3favors
-
-Date tweeted: Sun Jun 26 05:23:26 +0000 2011
-Tweet: Join Favo.rs, where professionals help each other with their requests! http://t.co/VYvEjQD via @3favors
-
-Date tweeted: Sat Jun 18 20:33:07 +0000 2011
-Tweet: @JerryBrownGov Good on you Gov Brown! Keep up the great work!
-
-Date tweeted: Fri Jul 01 06:18:21 +0000 2011
-Tweet: Help spread the word about this amazing short film crew out of Phoenix, AZ that needs support! http://t.co/P5mcdEm via @3favors
-
-Date tweeted: Sat Jun 18 20:30:21 +0000 2011
-Tweet: RT @JerryBrownGov: Today I vetoed the state budget (video): http://bit.ly/mKx9mL
-
-Date tweeted: Sat Jun 11 17:17:22 +0000 2011
-Tweet: I'm joining Favo.rs, where professionals broadcast & fulfill each other's help requests. Get invited: http://t.co/XouaJBI via @3favors
-
-Date tweeted: Sun Aug 16 15:47:19 +0000 2009
-Tweet: Had a great time at the Tobin James BBQ last night - good music, nice wine & Paso is beautiful this time of year (especially around sunset)
-
------------------------------------------------------------------------------------------------twitter
-
-Undefined-command: do-something
-query: That is necessary 
------------------------------------------------------------------------------------------------Undefined
-
-predefined task
-next command requested in 'random.txt'
-
-Spotify-Query: "I Want it That Way"
-Artist: Backstreet Boys
-Song Name: I Want It That Way
-Preview URL: https://p.scdn.co/mp3-preview/e72a05dc3f69c891e3390c3ceaa77fad02f6b5f6
-Album Name: The Hits--Chapter One
------------------------------------------------------------------------------------------------spotify
-
-Undefined-command: do-something-that-it-does-not-say
-query: to do 
------------------------------------------------------------------------------------------------Undefined
-
-predefined task
-next command requested in 'random.txt'
-
-Spotify-Query: "I Want it That Way"
-Artist: Backstreet Boys
-Song Name: I Want It That Way
-Preview URL: https://p.scdn.co/mp3-preview/e72a05dc3f69c891e3390c3ceaa77fad02f6b5f6
-Album Name: The Hits--Chapter One
------------------------------------------------------------------------------------------------spotify
-
-Undefined-command: do-something-that-it-doesn't-say-to-do
-query: another time perhaps 
------------------------------------------------------------------------------------------------Undefined
-
-Undefined-command: do-something-that-it-doesn't-say-to-do
-query: another time perhaps 
+Undefined-command: movei-this
+query: Army of Darkness 
 -----------------------------------------------------------------------------------------------Undefined
 
 predefined task
@@ -325,14 +96,14 @@ Album Name: The Hits--Chapter One
 -----------------------------------------------------------------------------------------------spotify
 
 Twitter-Query: 
+Date tweeted: Mon Sep 05 00:28:15 +0000 2016
+Tweet: First tweet in four years! Guess I just became an active user.
+
 Date tweeted: Mon Jan 09 20:53:04 +0000 2012
 Tweet: Pls RT: @senatorreid @chuckschumer @mcconnellpress We need u to stand w the Internet and kill #PIPA http://t.co/4umO9dSq via @demandprogress
 
 Date tweeted: Wed Jan 04 02:23:42 +0000 2012
 Tweet: 14 Senators introed bill to undo indefinite detention of Americans thru #NDAA. Tell yours to join: http://t.co/ueGlhttb via @demandprogress
-
-Date tweeted: Mon Sep 05 00:28:15 +0000 2016
-Tweet: First tweet in four years! Guess I just became an active user.
 
 Date tweeted: Fri Oct 07 21:45:01 +0000 2011
 Tweet: RT @Adbusters An Anonymous Investment Manager on the 1 Percent bit.ly/njyyNh #ows Interesting info
@@ -340,81 +111,20 @@ Tweet: RT @Adbusters An Anonymous Investment Manager on the 1 Percent bit.ly/njy
 Date tweeted: Sat Sep 24 23:31:16 +0000 2011
 Tweet: I just donated to @Amnesty! Won't you join me in supporting #HumanRights for all? http://t.co/BT2WSXwk
 
-Date tweeted: Sun Aug 07 17:50:48 +0000 2011
-Tweet: RT @WSJ: In defense of boredom: Scott Adams argues that constant stimulation is hurting our creativity http://on.wsj.com/pWWuTg
+Date tweeted: Fri Sep 09 05:43:25 +0000 2011
+Tweet: Next generation of social media? http://t.co/ezT6Yc9 via @3favors
 
 Date tweeted: Wed Aug 24 15:13:19 +0000 2011
 Tweet: @rspeaker Congrats!
 
+Date tweeted: Sun Aug 07 17:50:48 +0000 2011
+Tweet: RT @WSJ: In defense of boredom: Scott Adams argues that constant stimulation is hurting our creativity http://on.wsj.com/pWWuTg
+
 Date tweeted: Sun Aug 07 02:36:35 +0000 2011
 Tweet: $214 Trillion? I've heard $14 Trillion, $65 Trillion, $110 Trillion. Where does it end?
-
-Date tweeted: Fri Sep 09 05:43:25 +0000 2011
-Tweet: Next generation of social media? http://t.co/ezT6Yc9 via @3favors
 
 Date tweeted: Sun Aug 07 02:35:38 +0000 2011
 Tweet: RT @nprpolitics: A National Debt Of $14 Trillion? Try $211 Trillion http://n.pr/qEpB6a
-
-Date tweeted: Sat Jul 30 05:32:32 +0000 2011
-Tweet: Rest in Peace John E. Anderson.
-http://t.co/LnMR33y
-
-Date tweeted: Thu Jul 14 05:43:26 +0000 2011
-Tweet: AllThingsD: Do Us a Favor and Read About This Social Start-up Called Favo.rs http://t.co/kDPqcdk via @3favors
-
-Date tweeted: Fri Jul 01 06:18:21 +0000 2011
-Tweet: Help spread the word about this amazing short film crew out of Phoenix, AZ that needs support! http://t.co/P5mcdEm via @3favors
-
-Date tweeted: Thu Jun 30 04:16:59 +0000 2011
-Tweet: Hiring technical Platform PM at Zynga. CS/equiv degree preferred. Email tim@zynga.com. http://t.co/iYB6Sru via @3favors
-
-Date tweeted: Sun Jun 26 05:23:26 +0000 2011
-Tweet: Join Favo.rs, where professionals help each other with their requests! http://t.co/VYvEjQD via @3favors
-
-Date tweeted: Sat Jun 18 20:33:07 +0000 2011
-Tweet: @JerryBrownGov Good on you Gov Brown! Keep up the great work!
-
-Date tweeted: Mon Jul 04 17:49:27 +0000 2011
-Tweet: @MWinty, sign up for Klout and see how we compare! http://t.co/5338Qzm
-
-Date tweeted: Sat Jun 18 20:30:21 +0000 2011
-Tweet: RT @JerryBrownGov: Today I vetoed the state budget (video): http://bit.ly/mKx9mL
-
-Date tweeted: Sat Jun 11 17:17:22 +0000 2011
-Tweet: I'm joining Favo.rs, where professionals broadcast & fulfill each other's help requests. Get invited: http://t.co/XouaJBI via @3favors
-
-Date tweeted: Sun Aug 16 15:47:19 +0000 2009
-Tweet: Had a great time at the Tobin James BBQ last night - good music, nice wine & Paso is beautiful this time of year (especially around sunset)
-
------------------------------------------------------------------------------------------------twitter
-
-Twitter-Query: 
-Date tweeted: Mon Sep 05 00:28:15 +0000 2016
-Tweet: First tweet in four years! Guess I just became an active user.
-
-Date tweeted: Mon Jan 09 20:53:04 +0000 2012
-Tweet: Pls RT: @senatorreid @chuckschumer @mcconnellpress We need u to stand w the Internet and kill #PIPA http://t.co/4umO9dSq via @demandprogress
-
-Date tweeted: Wed Jan 04 02:23:42 +0000 2012
-Tweet: 14 Senators introed bill to undo indefinite detention of Americans thru #NDAA. Tell yours to join: http://t.co/ueGlhttb via @demandprogress
-
-Date tweeted: Sat Sep 24 23:31:16 +0000 2011
-Tweet: I just donated to @Amnesty! Won't you join me in supporting #HumanRights for all? http://t.co/BT2WSXwk
-
-Date tweeted: Fri Sep 09 05:43:25 +0000 2011
-Tweet: Next generation of social media? http://t.co/ezT6Yc9 via @3favors
-
-Date tweeted: Fri Oct 07 21:45:01 +0000 2011
-Tweet: RT @Adbusters An Anonymous Investment Manager on the 1 Percent bit.ly/njyyNh #ows Interesting info
-
-Date tweeted: Sun Aug 07 17:50:48 +0000 2011
-Tweet: RT @WSJ: In defense of boredom: Scott Adams argues that constant stimulation is hurting our creativity http://on.wsj.com/pWWuTg
-
-Date tweeted: Wed Aug 24 15:13:19 +0000 2011
-Tweet: @rspeaker Congrats!
-
-Date tweeted: Sun Aug 07 02:36:35 +0000 2011
-Tweet: $214 Trillion? I've heard $14 Trillion, $65 Trillion, $110 Trillion. Where does it end?
 
 Date tweeted: Sat Jul 30 05:32:32 +0000 2011
 Tweet: Rest in Peace John E. Anderson.
@@ -428,9 +138,6 @@ Tweet: @MWinty, sign up for Klout and see how we compare! http://t.co/5338Qzm
 
 Date tweeted: Fri Jul 01 06:18:21 +0000 2011
 Tweet: Help spread the word about this amazing short film crew out of Phoenix, AZ that needs support! http://t.co/P5mcdEm via @3favors
-
-Date tweeted: Sun Aug 07 02:35:38 +0000 2011
-Tweet: RT @nprpolitics: A National Debt Of $14 Trillion? Try $211 Trillion http://n.pr/qEpB6a
 
 Date tweeted: Thu Jun 30 04:16:59 +0000 2011
 Tweet: Hiring technical Platform PM at Zynga. CS/equiv degree preferred. Email tim@zynga.com. http://t.co/iYB6Sru via @3favors
@@ -452,71 +159,72 @@ Tweet: Had a great time at the Tobin James BBQ last night - good music, nice win
 
 -----------------------------------------------------------------------------------------------twitter
 
-predefined task
-next command requested in 'random.txt'
+Twitter-Query: 
+Date tweeted: Tue Sep 06 03:16:16 +0000 2016
+Tweet: Mike Pence says FBI report on Hillary Clinton’s email-server use shows she is ‘dishonest’ https://t.co/lNe3AdcwSb 🔓
 
-Spotify-Query: "I Want it That Way"
-Artist: Backstreet Boys
-Song Name: I Want It That Way
-Preview URL: https://p.scdn.co/mp3-preview/e72a05dc3f69c891e3390c3ceaa77fad02f6b5f6
-Album Name: The Hits--Chapter One
------------------------------------------------------------------------------------------------spotify
+Date tweeted: Tue Sep 06 02:44:58 +0000 2016
+Tweet: Hillary Clinton boards new campaign plane and meets the press. https://t.co/E2wClNgc6o 🔓
 
-Spotify-Query: More than a Feeling 
-Artist: Boston
-Song Name: More Than a Feeling
-Preview URL: https://p.scdn.co/mp3-preview/97aaefeb43d0e2368526778487c7097607d5d78d
-Album Name: Boston
------------------------------------------------------------------------------------------------spotify
+Date tweeted: Tue Sep 06 02:17:10 +0000 2016
+Tweet: Hillary Clinton holds many advantages, and also obstacles https://t.co/QqshXFlRWF 🔓
 
-Movie-Query: A Hard Day's Night 
-Title: A Hard Day's Night
-Release Year: 1964
-IMDB Rating: 7.7
-Country: UK
-Language: English, German, French
-Plot Synopsis: A 'typical' day in the life of the Beatles, including many of their famous songs.
-Actors: The Beatles, John Lennon, Paul McCartney, George Harrison
-Rotten Tomatoes Rating: 8.5
-Rotten Tomatoes URL: http://www.rottentomatoes.com/m/beatles_a_hard_days_night/
------------------------------------------------------------------------------------------------IMDB
+Date tweeted: Tue Sep 06 01:54:46 +0000 2016
+Tweet: Meet the man behind Donald Trump's online ads and digital missteps. https://t.co/MPwaPCXCYj
 
-Undefined-command: this-is-a-command
-query: you don't know 
------------------------------------------------------------------------------------------------Undefined
+Date tweeted: Tue Sep 06 01:25:56 +0000 2016
+Tweet: The CIA has a venture capital fund, and nearly half of its trustees have a connection to companies it has funded https://t.co/W7gI7oVHek 🔓
 
-Undefined-command: this-is-a-command
-query: you don't know 
------------------------------------------------------------------------------------------------Undefined
+Date tweeted: Tue Sep 06 00:55:05 +0000 2016
+Tweet: Inside In-Q-Tel, the venture-capital firm funded by the CIA https://t.co/SzpLfG91yd 🔓
 
-Movie-Query: A Hard Day's Night 
-Title: A Hard Day's Night
-Release Year: 1964
-IMDB Rating: 7.7
-Country: UK
-Language: English, German, French
-Plot Synopsis: A 'typical' day in the life of the Beatles, including many of their famous songs.
-Actors: The Beatles, John Lennon, Paul McCartney, George Harrison
-Rotten Tomatoes Rating: 8.5
-Rotten Tomatoes URL: http://www.rottentomatoes.com/m/beatles_a_hard_days_night/
------------------------------------------------------------------------------------------------IMDB
+Date tweeted: Tue Sep 06 00:24:39 +0000 2016
+Tweet: Donald Trump says urban crime near records, but data show murders well below '90s highs https://t.co/p7sSnzH8YG 🔓
 
-Spotify-Query: More than a Feeling 
-Artist: Boston
-Song Name: More Than a Feeling
-Preview URL: https://p.scdn.co/mp3-preview/97aaefeb43d0e2368526778487c7097607d5d78d
-Album Name: Boston
------------------------------------------------------------------------------------------------spotify
+Date tweeted: Mon Sep 05 23:52:39 +0000 2016
+Tweet: The ACA marketplace problems in context: Why they don't mean Obamacare is failing https://t.co/hgovE8CZlt by @DrewAltman in @WSJThinkTank 🔓
 
-predefined task
-next command requested in 'random.txt'
+Date tweeted: Mon Sep 05 23:20:52 +0000 2016
+Tweet: U.S. spy agency tweets "Classy as always China" -- then deletes, then apologizes     https://t.co/t52VmFYoeR by @damianpaletta
 
-Spotify-Query: "I Want it That Way"
-Artist: Backstreet Boys
-Song Name: I Want It That Way
-Preview URL: https://p.scdn.co/mp3-preview/e72a05dc3f69c891e3390c3ceaa77fad02f6b5f6
-Album Name: The Hits--Chapter One
------------------------------------------------------------------------------------------------spotify
+Date tweeted: Mon Sep 05 22:50:43 +0000 2016
+Tweet: Down-ballot candidates target turnout, fearing those turned off by presidential nominees won't vote https://t.co/cbdMtlagRv 🔓
+
+Date tweeted: Mon Sep 05 22:18:03 +0000 2016
+Tweet: Down-ballot candidates target turnout, fearing those turned off by presidential nominees won't vote https://t.co/NezfMH4174 🔓
+
+Date tweeted: Mon Sep 05 21:58:50 +0000 2016
+Tweet: RT @raju: The Many Paradoxes of the Front-Runner, Hillary Clinton https://t.co/9JvIGJ9zK7 via @WSJ https://t.co/CDGzv9OOQ4
+
+Date tweeted: Mon Sep 05 21:45:26 +0000 2016
+Tweet: Murders are up in some big cities, but rate remains well below '90s highs
+https://t.co/OpmCgYQA1v 🔓
+
+Date tweeted: Mon Sep 05 21:12:53 +0000 2016
+Tweet: Presidential advisory council questions validity of forensics in criminal trials     https://t.co/0lyw1ukcgb 🔓
+
+Date tweeted: Mon Sep 05 20:40:18 +0000 2016
+Tweet: The decline in press conferences on the campaign trail mirrors what has happened at the White House https://t.co/eoCR5WxKUc 🔓
+
+Date tweeted: Mon Sep 05 20:38:09 +0000 2016
+Tweet: RT @carolelee: Obama cancels meeting with Philippine president per @Price44 instead will meet w South Korea's Park on Tuesday
+
+Date tweeted: Mon Sep 05 20:11:47 +0000 2016
+Tweet: Half of Trump’s top-10 paid consultants have never worked on a presidential campaign https://t.co/sWfFcMZzRI  🔓
+
+Date tweeted: Mon Sep 05 19:48:54 +0000 2016
+Tweet: Health insurers’ pullback threatens to create monopoly zones  https://t.co/pBSeKKnvXW 🔓
+
+Date tweeted: Mon Sep 05 19:21:16 +0000 2016
+Tweet: Health insurers’ pullback threatens to create monopoly zones  https://t.co/Z1UPgoUgFQ 🔓
+
+Date tweeted: Mon Sep 05 19:19:13 +0000 2016
+Tweet: RT @hookjan: The 2016 race has so many negative "firsts," we're going to get tired of coming in first so much. https://t.co/Gio6pFNrMf via…
+
+Date tweeted: Mon Sep 05 18:53:26 +0000 2016
+Tweet: If Trump can’t win in Iowa, it could signal that his populist message isn’t strong enough to win the White House. https://t.co/Gw2LGXrHbE 🔓
+
+-----------------------------------------------------------------------------------------------twitter
 
 Twitter-Query: 
 Date tweeted: Mon Sep 05 00:28:15 +0000 2016
@@ -579,6 +287,202 @@ Tweet: I'm joining Favo.rs, where professionals broadcast & fulfill each other's
 
 Date tweeted: Sun Aug 16 15:47:19 +0000 2009
 Tweet: Had a great time at the Tobin James BBQ last night - good music, nice wine & Paso is beautiful this time of year (especially around sunset)
+
+-----------------------------------------------------------------------------------------------twitter
+
+Twitter-Query: 
+Date tweeted: Mon Sep 05 22:49:35 +0000 2016
+Tweet: @AnthonyQuintano @waltmossberg @pkafka @Recode we still do them!
+
+Date tweeted: Mon Sep 05 22:49:23 +0000 2016
+Tweet: @johnklin that was a long time ago!
+
+Date tweeted: Mon Sep 05 22:49:21 +0000 2016
+Tweet: A Labor Day Simba competition by @NellieBowles is neck and neck between Egg and Lovely https://t.co/mt0JlkUUkj
+
+Date tweeted: Mon Sep 05 16:33:15 +0000 2016
+Tweet: @MelissaBell @Angel_M_Baker @TheMattHoyt @thubutler @Drewid13 @Sweetstashbro they go together
+
+Date tweeted: Mon Sep 05 16:33:02 +0000 2016
+Tweet: @IndiCard @btaylor @KurtWagner8 thx
+
+Date tweeted: Sun Sep 04 23:24:58 +0000 2016
+Tweet: @MelissaBell @Angel_M_Baker @TheMattHoyt @thubutler @Drewid13 @Sweetstashbro wow your family is fascinating.
+
+Date tweeted: Sun Sep 04 22:14:33 +0000 2016
+Tweet: @KPRunion @CarterMansbach @Apple @twitter @nickbilton @MikeIsaak I have that email address on AOL
+
+Date tweeted: Sun Sep 04 20:27:34 +0000 2016
+Tweet: @CarterMansbach @KPRunion @Apple @twitter @nickbilton @MikeIsaac one day it will be so
+
+Date tweeted: Sun Sep 04 13:39:09 +0000 2016
+Tweet: @ryan_marsh yes which is why it is great
+
+Date tweeted: Sun Sep 04 05:48:35 +0000 2016
+Tweet: Amazing wedding for @Shiza and @amirtehrani today (yes that's @Malala, who gave a lovely tribute to the couple). https://t.co/Y8hnIih2um
+
+Date tweeted: Sun Sep 04 05:35:04 +0000 2016
+Tweet: Great story: Edward Snowden’s Long, Strange Journey to Hollywood, via @nytimes https://t.co/MxMtzuOucH
+
+Date tweeted: Sun Sep 04 03:58:38 +0000 2016
+Tweet: @lacyiceplusheat @LaurenGoode see, Lauren!
+
+Date tweeted: Sun Sep 04 00:12:27 +0000 2016
+Tweet: @CarterMansbach @Apple @twitter @nickbilton @MikeIsaac Twapple! FaceTwit!
+
+Date tweeted: Sun Sep 04 00:11:47 +0000 2016
+Tweet: @KPRunion @CarterMansbach @Apple @twitter @nickbilton @MikeIsaac wait I gotta drive you crazier
+
+Date tweeted: Sat Sep 03 15:16:56 +0000 2016
+Tweet: Cobra Kai! The Trumps made Twitter Great last night https://t.co/XkSmd1MGKL via @Recode
+
+Date tweeted: Sat Sep 03 05:43:59 +0000 2016
+Tweet: RT @BillKristol: A hopeful trend. Will all due respect to the Gray lady, lots of NYT stories could benefit from being one word. https://t.c…
+
+Date tweeted: Sat Sep 03 05:28:14 +0000 2016
+Tweet: @davepell heh
+
+Date tweeted: Sat Sep 03 05:28:03 +0000 2016
+Tweet: @pbreit @nytimes that reince dude is toast either way
+
+Date tweeted: Sat Sep 03 05:27:37 +0000 2016
+Tweet: @AlwaysaGoodday1 @znmeb @nytimes heh
+
+Date tweeted: Sat Sep 03 05:27:32 +0000 2016
+Tweet: @znmeb @AlwaysaGoodday1 @nytimes nice
+
+Date tweeted: Sat Sep 03 05:27:26 +0000 2016
+Tweet: @AlwaysaGoodday1 @nytimes yum
+
+-----------------------------------------------------------------------------------------------twitter
+
+Twitter-Query: DavidSpeak
+Date tweeted: Mon Sep 05 00:28:15 +0000 2016
+Tweet: First tweet in four years! Guess I just became an active user.
+
+Date tweeted: Mon Jan 09 20:53:04 +0000 2012
+Tweet: Pls RT: @senatorreid @chuckschumer @mcconnellpress We need u to stand w the Internet and kill #PIPA http://t.co/4umO9dSq via @demandprogress
+
+Date tweeted: Wed Jan 04 02:23:42 +0000 2012
+Tweet: 14 Senators introed bill to undo indefinite detention of Americans thru #NDAA. Tell yours to join: http://t.co/ueGlhttb via @demandprogress
+
+Date tweeted: Fri Oct 07 21:45:01 +0000 2011
+Tweet: RT @Adbusters An Anonymous Investment Manager on the 1 Percent bit.ly/njyyNh #ows Interesting info
+
+Date tweeted: Sat Sep 24 23:31:16 +0000 2011
+Tweet: I just donated to @Amnesty! Won't you join me in supporting #HumanRights for all? http://t.co/BT2WSXwk
+
+Date tweeted: Fri Sep 09 05:43:25 +0000 2011
+Tweet: Next generation of social media? http://t.co/ezT6Yc9 via @3favors
+
+Date tweeted: Wed Aug 24 15:13:19 +0000 2011
+Tweet: @rspeaker Congrats!
+
+Date tweeted: Sun Aug 07 17:50:48 +0000 2011
+Tweet: RT @WSJ: In defense of boredom: Scott Adams argues that constant stimulation is hurting our creativity http://on.wsj.com/pWWuTg
+
+Date tweeted: Sun Aug 07 02:36:35 +0000 2011
+Tweet: $214 Trillion? I've heard $14 Trillion, $65 Trillion, $110 Trillion. Where does it end?
+
+Date tweeted: Sun Aug 07 02:35:38 +0000 2011
+Tweet: RT @nprpolitics: A National Debt Of $14 Trillion? Try $211 Trillion http://n.pr/qEpB6a
+
+Date tweeted: Sat Jul 30 05:32:32 +0000 2011
+Tweet: Rest in Peace John E. Anderson.
+http://t.co/LnMR33y
+
+Date tweeted: Thu Jul 14 05:43:26 +0000 2011
+Tweet: AllThingsD: Do Us a Favor and Read About This Social Start-up Called Favo.rs http://t.co/kDPqcdk via @3favors
+
+Date tweeted: Mon Jul 04 17:49:27 +0000 2011
+Tweet: @MWinty, sign up for Klout and see how we compare! http://t.co/5338Qzm
+
+Date tweeted: Fri Jul 01 06:18:21 +0000 2011
+Tweet: Help spread the word about this amazing short film crew out of Phoenix, AZ that needs support! http://t.co/P5mcdEm via @3favors
+
+Date tweeted: Thu Jun 30 04:16:59 +0000 2011
+Tweet: Hiring technical Platform PM at Zynga. CS/equiv degree preferred. Email tim@zynga.com. http://t.co/iYB6Sru via @3favors
+
+Date tweeted: Sun Jun 26 05:23:26 +0000 2011
+Tweet: Join Favo.rs, where professionals help each other with their requests! http://t.co/VYvEjQD via @3favors
+
+Date tweeted: Sat Jun 18 20:33:07 +0000 2011
+Tweet: @JerryBrownGov Good on you Gov Brown! Keep up the great work!
+
+Date tweeted: Sat Jun 18 20:30:21 +0000 2011
+Tweet: RT @JerryBrownGov: Today I vetoed the state budget (video): http://bit.ly/mKx9mL
+
+Date tweeted: Sat Jun 11 17:17:22 +0000 2011
+Tweet: I'm joining Favo.rs, where professionals broadcast & fulfill each other's help requests. Get invited: http://t.co/XouaJBI via @3favors
+
+Date tweeted: Sun Aug 16 15:47:19 +0000 2009
+Tweet: Had a great time at the Tobin James BBQ last night - good music, nice wine & Paso is beautiful this time of year (especially around sunset)
+
+-----------------------------------------------------------------------------------------------twitter
+
+Twitter-Query: RealTimeWWII 
+Date tweeted: Mon Sep 05 23:08:02 +0000 2016
+Tweet: Allies have captured Antwerp from Germans but are now overstretched &amp; exhausted- liberation of Netherlands must wait https://t.co/KLHB1FGS69
+
+Date tweeted: Mon Sep 05 22:56:21 +0000 2016
+Tweet: Dolle Dinsdag- "Mad Tuesday"- sweeps through Netherlands, as Dutch hear false rumours of Allied armies' arrival. https://t.co/YPkCeaRO0h
+
+Date tweeted: Sun Sep 04 22:59:25 +0000 2016
+Tweet: Frank: "There was a red glow surrounding the city- the Germans set fire to the magnificent Palace of Justice." More: https://t.co/Z0hIJcP8yV
+
+Date tweeted: Sun Sep 04 22:57:25 +0000 2016
+Tweet: "Bands, screams, singing, crying, all… rent the air… The proudest moment of my life. We brought freedom &amp; happiness to these good people."
+
+Date tweeted: Sun Sep 04 22:56:08 +0000 2016
+Tweet: UK tankist Frank Clarke, Brussels: "Reception that greeted us… was stupendously terrific. The city went raving mad." https://t.co/HyMm8YAYC8
+
+Date tweeted: Sun Sep 04 22:45:22 +0000 2016
+Tweet: Jubilant Belgians cover British tanks with flowers, hitch a ride &amp; press food &amp; wine on bemused Allied troops: https://t.co/UjY1I08cFP
+
+Date tweeted: Sun Sep 04 22:33:43 +0000 2016
+Tweet: Allied troops have punched deep into Belgium, punching past German forces &amp; liberating Brussels from Nazi occupation https://t.co/dmsgYOxvKq
+
+Date tweeted: Sun Sep 04 21:09:09 +0000 2016
+Tweet: Spitfire long-range fuel tanks changed to carry beer from Britain, given official code XXX: https://t.co/Kci7lOaOdn https://t.co/AeHlAK9R7A
+
+Date tweeted: Sun Sep 04 21:04:26 +0000 2016
+Tweet: To supply badly-needed beer to advancing Allied troops in France, Spitfires are modified to carry underwing barrels: https://t.co/Cf9kiJr3ig
+
+Date tweeted: Sat Sep 03 23:12:22 +0000 2016
+Tweet: Pluto pipelines, product of 2 years' complex engineering, will stop Allied fuel from depending on oil tankers, vulnerable to German bombing.
+
+Date tweeted: Sat Sep 03 23:00:07 +0000 2016
+Tweet: Operation PLUTO (Pipe-Lines Under The Ocean) pumps vital fuel to Allied armies in Normandy; UK navy deploying pipes: https://t.co/xkuyyWmXct
+
+Date tweeted: Sat Sep 03 22:58:00 +0000 2016
+Tweet: Allied undersea oil pipelines from UK to France now in place, 130km "Pipeline Pluto" from Isle of Wight to Cherbourg https://t.co/F2SLkatdUW
+
+Date tweeted: Fri Sep 02 22:43:55 +0000 2016
+Tweet: Advancing Allied forces have crossed the border between France &amp; Belgium, &amp; are being greeted ecstatically by locals https://t.co/jlnY9oFtIr
+
+Date tweeted: Thu Sep 01 22:21:27 +0000 2016
+Tweet: Soviet Foreign Minister Molotov: Polish Warsaw uprising "a purely adventuristic affair &amp; Soviet Government could not lend its hand to it".
+
+Date tweeted: Thu Sep 01 22:18:41 +0000 2016
+Tweet: Despite being just miles away, in Warsaw suburbs, &amp; aware of Polish uprising, Red Army has not advanced for a month. https://t.co/o6ZeAOVcza
+
+Date tweeted: Thu Sep 01 22:12:56 +0000 2016
+Tweet: A month after Polish Home Army captured Warsaw from Nazi occupiers, city surrounded, cut off, bombed by Luftwaffe: https://t.co/KUB1nzawhg
+
+Date tweeted: Wed Aug 31 22:57:40 +0000 2016
+Tweet: Red Army have captured Ploiești, Romania, largest Axis source of oil. Refineries have been wrecked by Allied bombing https://t.co/h8aAZ123r9
+
+Date tweeted: Tue Aug 30 22:54:00 +0000 2016
+Tweet: Slovak national uprising backed by govt-in-exile, aims at toppling Nazi collaborating regime of President Jozef Tiso https://t.co/fVPtAglS1s
+
+Date tweeted: Tue Aug 30 22:48:42 +0000 2016
+Tweet: Anti-German armed uprising has begun in Slovakia, with 18,000 Slovak troops attacking Wehrmacht &amp; Nazi-allied govt. https://t.co/UiSDaM9pwo
+
+Date tweeted: Sun Aug 28 22:57:03 +0000 2016
+Tweet: Parisians on the Place de la Concorde scatter for cover as German snipers shoot at crowds celebrating liberation: https://t.co/G1VsLcMluk
+
+Date tweeted: Sat Aug 27 17:27:18 +0000 2016
+Tweet: Cheering crowds line the Champs Elysees, as French troops parade through Paris to celebrate end of German occupation https://t.co/9kWYeubKVh
 
 -----------------------------------------------------------------------------------------------twitter
 
